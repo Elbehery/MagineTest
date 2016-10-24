@@ -1,0 +1,5312 @@
+{
+  "countryCode": "SE",
+  "currency": "SEK",
+  "products": [
+    {
+      "id": "00001SEPAC",
+      "name": "Magic",
+      "tagline": "Här hittar du massor av bra TV för alla åldrar, intressen och tillfällen. Du kan även lägga till temapaket och enskilda kanaler precis som du vill och få TV precis som du vill ha det.",
+      "description": "Magic är 23 särskilt utvalda kanaler som ger dig det mesta av det bästa.",
+      "image": "https://images.tvoli.com/products/pack_magic.jpg",
+      "price": 9900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 191,
+          "listOrder": 32,
+          "name": "BBC World News",
+          "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 12397,
+          "listOrder": 4,
+          "name": "BBC Brit",
+          "logoLight": "http://images.tvoli.com/channel-logos/12397.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/12397_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 10061,
+          "listOrder": 33,
+          "name": "BBC Earth",
+          "logoLight": "http://images.tvoli.com/channel-logos/10061.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10061_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 181,
+          "listOrder": 125,
+          "name": "CNN",
+          "logoLight": "http://images.tvoli.com/channel-logos/181.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/181_dark.png",
+          "tags": [
+            "catch-up",
+            "pay"
+          ]
+        },
+        {
+          "id": 10198,
+          "listOrder": 15,
+          "name": "TNT",
+          "logoLight": "http://images.tvoli.com/channel-logos/10198.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10198_dark.png",
+          "tags": [
+            "entertainment"
+          ]
+        },
+        {
+          "id": 232,
+          "listOrder": 24,
+          "name": "Cartoon Network",
+          "logoLight": "http://images.tvoli.com/channel-logos/232.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/232_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 250,
+          "listOrder": 27,
+          "name": "Boomerang",
+          "logoLight": "http://images.tvoli.com/channel-logos/250.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/250_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 154,
+          "listOrder": 22,
+          "name": "Nickelodeon",
+          "logoLight": "http://images.tvoli.com/channel-logos/154.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/154_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 11227,
+          "listOrder": 26,
+          "name": "Nick Jr",
+          "logoLight": "http://images.tvoli.com/channel-logos/11227.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/11227_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 72,
+          "listOrder": 12,
+          "name": "MTV",
+          "logoLight": "http://images.tvoli.com/channel-logos/72.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/72_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 176,
+          "listOrder": 16,
+          "name": "Eurosport",
+          "logoLight": "http://images.tvoli.com/channel-logos/176.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/176_dark.png",
+          "tags": [
+            "popular"
+          ]
+        },
+        {
+          "id": 227,
+          "listOrder": 5,
+          "name": "National Geographic Channel",
+          "logoLight": "http://images.tvoli.com/channel-logos/227.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/227_dark.png",
+          "tags": [
+            "popular",
+            "facts"
+          ]
+        },
+        {
+          "id": 11573,
+          "listOrder": 6,
+          "name": "National Geographic Wild",
+          "logoLight": "http://images.tvoli.com/channel-logos/11573.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/11573_dark.png",
+          "tags": [
+            "facts"
+          ]
+        },
+        {
+          "id": 52,
+          "listOrder": 21,
+          "name": "Disney",
+          "logoLight": "http://images.tvoli.com/channel-logos/52.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/52_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 158,
+          "listOrder": 25,
+          "name": "Disney Junior",
+          "logoLight": "http://images.tvoli.com/channel-logos/158.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/158_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 75,
+          "listOrder": 23,
+          "name": "Disney XD",
+          "logoLight": "http://images.tvoli.com/channel-logos/75.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/75_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 119,
+          "listOrder": 7,
+          "name": "Discovery",
+          "logoLight": "http://images.tvoli.com/channel-logos/119.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/119_dark.png",
+          "tags": [
+            "popular",
+            "facts"
+          ]
+        },
+        {
+          "id": 123,
+          "listOrder": 3,
+          "name": "TLC",
+          "logoLight": "http://images.tvoli.com/channel-logos/123.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/123_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 120,
+          "listOrder": 11,
+          "name": "Animal Planet",
+          "logoLight": "http://images.tvoli.com/channel-logos/120.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/120_dark.png",
+          "tags": [
+            "popular",
+            "facts"
+          ]
+        },
+        {
+          "id": 10196,
+          "listOrder": 13,
+          "name": "Comedy Central Sweden",
+          "logoLight": "http://images.tvoli.com/channel-logos/10196.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10196_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 178,
+          "listOrder": 17,
+          "name": "Eurosport 2",
+          "logoLight": "http://images.tvoli.com/channel-logos/178.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/178_dark.png",
+          "tags": [
+            "hd",
+            "popular"
+          ]
+        },
+        {
+          "id": 10116,
+          "listOrder": 178,
+          "name": "Al Jazeera",
+          "logoLight": "http://images.tvoli.com/channel-logos/10116.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10116_dark.png",
+          "tags": [
+            "catch-up"
+          ]
+        },
+        {
+          "id": 15199,
+          "listOrder": 14,
+          "name": "Paramount",
+          "logoLight": "http://images.tvoli.com/channel-logos/15199.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/15199_dark.png",
+          "tags": [
+            "film"
+          ]
+        }
+      ],
+      "channelIds": [
+        191,
+        12397,
+        10061,
+        181,
+        10198,
+        232,
+        250,
+        154,
+        11227,
+        72,
+        176,
+        227,
+        11573,
+        52,
+        158,
+        75,
+        119,
+        123,
+        120,
+        10196,
+        178,
+        10116,
+        15199
+      ],
+      "isInternal": false,
+      "usps": [
+        "På alla dina enheter",
+        "Ett paket som passar alla",
+        "Våra mest populära kanaler"
+      ],
+      "topChannels": [
+        {
+          "id": 191,
+          "listOrder": 32,
+          "name": "BBC World News",
+          "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 12397,
+          "listOrder": 4,
+          "name": "BBC Brit",
+          "logoLight": "http://images.tvoli.com/channel-logos/12397.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/12397_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 10061,
+          "listOrder": 33,
+          "name": "BBC Earth",
+          "logoLight": "http://images.tvoli.com/channel-logos/10061.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10061_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 181,
+          "listOrder": 125,
+          "name": "CNN",
+          "logoLight": "http://images.tvoli.com/channel-logos/181.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/181_dark.png",
+          "tags": [
+            "catch-up",
+            "pay"
+          ]
+        },
+        {
+          "id": 10198,
+          "listOrder": 15,
+          "name": "TNT",
+          "logoLight": "http://images.tvoli.com/channel-logos/10198.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10198_dark.png",
+          "tags": [
+            "entertainment"
+          ]
+        },
+        {
+          "id": 232,
+          "listOrder": 24,
+          "name": "Cartoon Network",
+          "logoLight": "http://images.tvoli.com/channel-logos/232.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/232_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 250,
+          "listOrder": 27,
+          "name": "Boomerang",
+          "logoLight": "http://images.tvoli.com/channel-logos/250.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/250_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 154,
+          "listOrder": 22,
+          "name": "Nickelodeon",
+          "logoLight": "http://images.tvoli.com/channel-logos/154.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/154_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 11227,
+          "listOrder": 26,
+          "name": "Nick Jr",
+          "logoLight": "http://images.tvoli.com/channel-logos/11227.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/11227_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 72,
+          "listOrder": 12,
+          "name": "MTV",
+          "logoLight": "http://images.tvoli.com/channel-logos/72.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/72_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 176,
+          "listOrder": 16,
+          "name": "Eurosport",
+          "logoLight": "http://images.tvoli.com/channel-logos/176.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/176_dark.png",
+          "tags": [
+            "popular"
+          ]
+        }
+      ],
+      "tags": [
+        "large",
+        "recommended"
+      ]
+    },
+    {
+      "id": "00003SEPAC",
+      "name": "Kids",
+      "tagline": "Från Fåret Shaun och Scooby Doo, till Ben 10 och Äventyrsdags. Här hittar du massor av bra TV för barn i alla åldrar!",
+      "description": "Från Fåret Shaun och Scooby Doo, till Ben 10 och Äventyrsdags. Här hittar du massor av bra TV för barn i alla åldrar. SVT’s Barnkanalen finns alltid tillgänglig genom gratispaketet Free.",
+      "image": "https://images.tvoli.com/products/pack_se_kids.png",
+      "price": 5900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 52,
+          "listOrder": 21,
+          "name": "Disney",
+          "logoLight": "http://images.tvoli.com/channel-logos/52.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/52_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 158,
+          "listOrder": 25,
+          "name": "Disney Junior",
+          "logoLight": "http://images.tvoli.com/channel-logos/158.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/158_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 75,
+          "listOrder": 23,
+          "name": "Disney XD",
+          "logoLight": "http://images.tvoli.com/channel-logos/75.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/75_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 232,
+          "listOrder": 24,
+          "name": "Cartoon Network",
+          "logoLight": "http://images.tvoli.com/channel-logos/232.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/232_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 250,
+          "listOrder": 27,
+          "name": "Boomerang",
+          "logoLight": "http://images.tvoli.com/channel-logos/250.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/250_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 14380,
+          "listOrder": 28,
+          "name": "Toon TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/14380.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14380_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 154,
+          "listOrder": 22,
+          "name": "Nickelodeon",
+          "logoLight": "http://images.tvoli.com/channel-logos/154.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/154_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 11227,
+          "listOrder": 26,
+          "name": "Nick Jr",
+          "logoLight": "http://images.tvoli.com/channel-logos/11227.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/11227_dark.png",
+          "tags": [
+            "kids"
+          ]
+        }
+      ],
+      "channelIds": [
+        52,
+        158,
+        75,
+        232,
+        250,
+        14380,
+        154,
+        11227
+      ],
+      "isInternal": false,
+      "usps": [
+        "För stora och små",
+        "8 kanaler",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 52,
+          "listOrder": 21,
+          "name": "Disney",
+          "logoLight": "http://images.tvoli.com/channel-logos/52.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/52_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 158,
+          "listOrder": 25,
+          "name": "Disney Junior",
+          "logoLight": "http://images.tvoli.com/channel-logos/158.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/158_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 75,
+          "listOrder": 23,
+          "name": "Disney XD",
+          "logoLight": "http://images.tvoli.com/channel-logos/75.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/75_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 232,
+          "listOrder": 24,
+          "name": "Cartoon Network",
+          "logoLight": "http://images.tvoli.com/channel-logos/232.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/232_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 250,
+          "listOrder": 27,
+          "name": "Boomerang",
+          "logoLight": "http://images.tvoli.com/channel-logos/250.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/250_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 14380,
+          "listOrder": 28,
+          "name": "Toon TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/14380.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14380_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 154,
+          "listOrder": 22,
+          "name": "Nickelodeon",
+          "logoLight": "http://images.tvoli.com/channel-logos/154.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/154_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 11227,
+          "listOrder": 26,
+          "name": "Nick Jr",
+          "logoLight": "http://images.tvoli.com/channel-logos/11227.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/11227_dark.png",
+          "tags": [
+            "kids"
+          ]
+        }
+      ],
+      "tags": [
+        "medium",
+        "theme"
+      ]
+    },
+    {
+      "id": "00004SEPAC",
+      "name": "Discovery",
+      "tagline": "Lär dig något nytt varje dag! Få kunskap om vårt förflutna och utforska framtiden med vårt Discovery-paket.",
+      "description": "Vetenskapliga landvinningar, uråldriga kulturer, arkeologi och kriminalmysterier. Här får du kunskap och spänning på samma gång!",
+      "image": "https://images.tvoli.com/products/pack_se_discovery.png",
+      "price": 3900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 121,
+          "listOrder": 8,
+          "name": "Discovery World",
+          "logoLight": "http://images.tvoli.com/channel-logos/121.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/121_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 10210,
+          "listOrder": 10,
+          "name": "Investigation Discovery",
+          "logoLight": "http://images.tvoli.com/channel-logos/10210.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10210_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 122,
+          "listOrder": 9,
+          "name": "Discovery Science",
+          "logoLight": "http://images.tvoli.com/channel-logos/122.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/122_dark.png",
+          "tags": [
+
+          ]
+        }
+      ],
+      "channelIds": [
+        121,
+        10210,
+        122
+      ],
+      "isInternal": false,
+      "usps": [
+        "För dig som törstar efter kunskap",
+        "3 kanaler",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 121,
+          "listOrder": 8,
+          "name": "Discovery World",
+          "logoLight": "http://images.tvoli.com/channel-logos/121.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/121_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 10210,
+          "listOrder": 10,
+          "name": "Investigation Discovery",
+          "logoLight": "http://images.tvoli.com/channel-logos/10210.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10210_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 122,
+          "listOrder": 9,
+          "name": "Discovery Science",
+          "logoLight": "http://images.tvoli.com/channel-logos/122.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/122_dark.png",
+          "tags": [
+
+          ]
+        }
+      ],
+      "tags": [
+        "medium",
+        "theme"
+      ]
+    },
+    {
+      "id": "00005SEPAC",
+      "name": "Disney",
+      "tagline": "Välkommen in i Disneys fantastiska värld! Här möter du de klassiska Disney-karaktärerna och lär känna nya favoriter.",
+      "description": "Här hittar du tecknade favoriter som Violetta, Sofia den Första, Star Wars Rebels, Doktor McStuffins och Marvel-titlar som Ultimate Spiderman och Iron Man.",
+      "image": "https://images.tvoli.com/products/pack_se_disney.png",
+      "price": 3900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 52,
+          "listOrder": 21,
+          "name": "Disney",
+          "logoLight": "http://images.tvoli.com/channel-logos/52.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/52_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 158,
+          "listOrder": 25,
+          "name": "Disney Junior",
+          "logoLight": "http://images.tvoli.com/channel-logos/158.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/158_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 75,
+          "listOrder": 23,
+          "name": "Disney XD",
+          "logoLight": "http://images.tvoli.com/channel-logos/75.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/75_dark.png",
+          "tags": [
+            "kids"
+          ]
+        }
+      ],
+      "channelIds": [
+        52,
+        158,
+        75
+      ],
+      "isInternal": false,
+      "usps": [
+        "Välkommen till Disney fantastisk värld",
+        "3 kanaler",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 52,
+          "listOrder": 21,
+          "name": "Disney",
+          "logoLight": "http://images.tvoli.com/channel-logos/52.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/52_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 158,
+          "listOrder": 25,
+          "name": "Disney Junior",
+          "logoLight": "http://images.tvoli.com/channel-logos/158.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/158_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 75,
+          "listOrder": 23,
+          "name": "Disney XD",
+          "logoLight": "http://images.tvoli.com/channel-logos/75.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/75_dark.png",
+          "tags": [
+            "kids"
+          ]
+        }
+      ],
+      "tags": [
+        "medium",
+        "theme"
+      ]
+    },
+    {
+      "id": "00006SEPAC",
+      "name": "News",
+      "tagline": "Håll koll på din omvärld var du än är. Vi har samlat några av de mest relevanta nyhetskanalerna för dig!",
+      "description": "Nyheter, reportage, analyser och intervjuer. Håll koll på din omvärld med de allra bästa kanalerna inom nyheter och ekonomi.",
+      "image": "https://images.tvoli.com/products/pack_se_news.png",
+      "price": 2900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 10116,
+          "listOrder": 178,
+          "name": "Al Jazeera",
+          "logoLight": "http://images.tvoli.com/channel-logos/10116.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10116_dark.png",
+          "tags": [
+            "catch-up"
+          ]
+        },
+        {
+          "id": 30,
+          "listOrder": 103,
+          "name": "Bloomberg",
+          "logoLight": "http://images.tvoli.com/channel-logos/30.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/30_dark.png",
+          "tags": [
+            "catch-up"
+          ]
+        },
+        {
+          "id": 181,
+          "listOrder": 125,
+          "name": "CNN",
+          "logoLight": "http://images.tvoli.com/channel-logos/181.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/181_dark.png",
+          "tags": [
+            "catch-up",
+            "pay"
+          ]
+        },
+        {
+          "id": 191,
+          "listOrder": 32,
+          "name": "BBC World News",
+          "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+          "tags": [
+
+          ]
+        }
+      ],
+      "channelIds": [
+        10116,
+        30,
+        181,
+        191
+      ],
+      "isInternal": false,
+      "usps": [
+        "Nyheter från hela världen",
+        "4 kanaler",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 10116,
+          "listOrder": 178,
+          "name": "Al Jazeera",
+          "logoLight": "http://images.tvoli.com/channel-logos/10116.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10116_dark.png",
+          "tags": [
+            "catch-up"
+          ]
+        },
+        {
+          "id": 30,
+          "listOrder": 103,
+          "name": "Bloomberg",
+          "logoLight": "http://images.tvoli.com/channel-logos/30.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/30_dark.png",
+          "tags": [
+            "catch-up"
+          ]
+        },
+        {
+          "id": 181,
+          "listOrder": 125,
+          "name": "CNN",
+          "logoLight": "http://images.tvoli.com/channel-logos/181.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/181_dark.png",
+          "tags": [
+            "catch-up",
+            "pay"
+          ]
+        },
+        {
+          "id": 191,
+          "listOrder": 32,
+          "name": "BBC World News",
+          "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+          "tags": [
+
+          ]
+        }
+      ],
+      "tags": [
+        "medium",
+        "theme"
+      ]
+    },
+    {
+      "id": "00024SEPAC",
+      "name": "BBC",
+      "tagline": "Brittisk TV har alltid hållit hög kvalite och här hittar du några av de bästa kanalerna, med anrika BBC News i spetsen.",
+      "description": "Brittisk kvalitets-TV med deckare, drama, och underhållning. Och så en av världens främsta nyhetsredaktioner så klart.",
+      "image": "https://images.tvoli.com/products/pack_se_bbc.png",
+      "price": 3900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 12397,
+          "listOrder": 4,
+          "name": "BBC Brit",
+          "logoLight": "http://images.tvoli.com/channel-logos/12397.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/12397_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 10061,
+          "listOrder": 33,
+          "name": "BBC Earth",
+          "logoLight": "http://images.tvoli.com/channel-logos/10061.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10061_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 191,
+          "listOrder": 32,
+          "name": "BBC World News",
+          "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+          "tags": [
+
+          ]
+        }
+      ],
+      "channelIds": [
+        12397,
+        10061,
+        191
+      ],
+      "isInternal": false,
+      "usps": [
+        "Brittisk TV med hög kvalitet",
+        "3 kanaler",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 12397,
+          "listOrder": 4,
+          "name": "BBC Brit",
+          "logoLight": "http://images.tvoli.com/channel-logos/12397.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/12397_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 10061,
+          "listOrder": 33,
+          "name": "BBC Earth",
+          "logoLight": "http://images.tvoli.com/channel-logos/10061.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10061_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 191,
+          "listOrder": 32,
+          "name": "BBC World News",
+          "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+          "tags": [
+
+          ]
+        }
+      ],
+      "tags": [
+        "medium",
+        "theme"
+      ]
+    },
+    {
+      "id": "00007SEPAC",
+      "name": "Sports & Action",
+      "tagline": "Spänn fast er! Här flödar adrenalinet i hockeyrinkar, i skidbackar, till havs, i ramper och på racerbanor. ",
+      "description": "Här hittar du alltifrån fotboll och ishockey, till segling, racing och extremsport. Dessutom ingår kanalen GINX med det bästa från TV-spelsvärlden. ",
+      "image": "https://images.tvoli.com/products/pack_se_sportandaction.png",
+      "price": 3900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 178,
+          "listOrder": 17,
+          "name": "Eurosport 2",
+          "logoLight": "http://images.tvoli.com/channel-logos/178.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/178_dark.png",
+          "tags": [
+            "hd",
+            "popular"
+          ]
+        },
+        {
+          "id": 10135,
+          "listOrder": 30,
+          "name": "Nautical Channel",
+          "logoLight": "http://images.tvoli.com/channel-logos/10135.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10135_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 13707,
+          "listOrder": 120,
+          "name": "Fuel TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/13707.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/13707_dark.png",
+          "tags": [
+            "hd",
+            "catch-up",
+            "pay"
+          ]
+        },
+        {
+          "id": 13702,
+          "listOrder": 124,
+          "name": "Ginx TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/13702.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/13702_dark.png",
+          "tags": [
+            "catch-up"
+          ]
+        },
+        {
+          "id": 10058,
+          "listOrder": 121,
+          "name": "Motors TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/10058.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10058_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 14153,
+          "listOrder": 131,
+          "name": "Outdoor Sport Channel",
+          "logoLight": "http://images.tvoli.com/channel-logos/14153.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14153_dark.png",
+          "tags": [
+            "catch-up",
+            "pay"
+          ]
+        }
+      ],
+      "channelIds": [
+        178,
+        10135,
+        13707,
+        13702,
+        10058,
+        14153
+      ],
+      "isInternal": false,
+      "usps": [
+        "Allt från fotboll till segling, racing och e-sport",
+        "6 kanaler",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 178,
+          "listOrder": 17,
+          "name": "Eurosport 2",
+          "logoLight": "http://images.tvoli.com/channel-logos/178.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/178_dark.png",
+          "tags": [
+            "hd",
+            "popular"
+          ]
+        },
+        {
+          "id": 10135,
+          "listOrder": 30,
+          "name": "Nautical Channel",
+          "logoLight": "http://images.tvoli.com/channel-logos/10135.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10135_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 13707,
+          "listOrder": 120,
+          "name": "Fuel TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/13707.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/13707_dark.png",
+          "tags": [
+            "hd",
+            "catch-up",
+            "pay"
+          ]
+        },
+        {
+          "id": 13702,
+          "listOrder": 124,
+          "name": "Ginx TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/13702.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/13702_dark.png",
+          "tags": [
+            "catch-up"
+          ]
+        },
+        {
+          "id": 10058,
+          "listOrder": 121,
+          "name": "Motors TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/10058.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10058_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 14153,
+          "listOrder": 131,
+          "name": "Outdoor Sport Channel",
+          "logoLight": "http://images.tvoli.com/channel-logos/14153.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14153_dark.png",
+          "tags": [
+            "catch-up",
+            "pay"
+          ]
+        }
+      ],
+      "tags": [
+        "medium",
+        "theme"
+      ]
+    },
+    {
+      "id": "00013SEPAC",
+      "name": "Horse and Country",
+      "tagline": "För ridsportsfantasten.",
+      "description": "Allt du behöver och lite till, förutsatt att du älskar hästar alltså. Här ser du tävlingar, reportage, intervjuer och nyheter om hästsport och lantliv.",
+      "image": "https://images.tvoli.com/products/pack_se_horseandcountry.png",
+      "price": 3900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 14055,
+          "listOrder": 18,
+          "name": "Horse and Country",
+          "logoLight": "http://images.tvoli.com/channel-logos/14055.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14055_dark.png",
+          "tags": [
+            "entertainment"
+          ]
+        }
+      ],
+      "channelIds": [
+        14055
+      ],
+      "isInternal": false,
+      "usps": [
+        "För ridsports-fantasten",
+        "På alla dina enheter",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 14055,
+          "listOrder": 18,
+          "name": "Horse and Country",
+          "logoLight": "http://images.tvoli.com/channel-logos/14055.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14055_dark.png",
+          "tags": [
+            "entertainment"
+          ]
+        }
+      ],
+      "tags": [
+        "small"
+      ]
+    },
+    {
+      "id": "00018SEPAC",
+      "name": "Motors TV",
+      "tagline": "För dig som gillar bilar.",
+      "description": "Snabba bilar, motorcyklar, båtar och flygplan. 24 timmar om dygnet, 7 dagar i veckan. Frågor på det?",
+      "image": "https://images.tvoli.com/products/pack_se_motorstv.png",
+      "price": 1900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 10058,
+          "listOrder": 121,
+          "name": "Motors TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/10058.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10058_dark.png",
+          "tags": [
+
+          ]
+        }
+      ],
+      "channelIds": [
+        10058
+      ],
+      "isInternal": false,
+      "usps": [
+        "För dig som gillar bilar",
+        "På alla dina enheter",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 10058,
+          "listOrder": 121,
+          "name": "Motors TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/10058.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10058_dark.png",
+          "tags": [
+
+          ]
+        }
+      ],
+      "tags": [
+        "small"
+      ]
+    },
+    {
+      "id": "00033SEPAC",
+      "name": "Docubox",
+      "tagline": "Ladda huvudet med kunskap.",
+      "description": "Utforska urgamla kulturer och lär dig mer om vår vackra, mystiska och farliga värld.",
+      "image": "https://images.tvoli.com/products/pack_se_docubox.png",
+      "price": 1900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 14290,
+          "listOrder": 128,
+          "name": "Docubox",
+          "logoLight": "http://images.tvoli.com/channel-logos/14290.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14290_dark.png",
+          "tags": [
+            "hd",
+            "catch-up",
+            "pay"
+          ]
+        }
+      ],
+      "channelIds": [
+        14290
+      ],
+      "isInternal": false,
+      "usps": [
+        "Ladda huvudet med kunskap",
+        "På alla dina enheter",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 14290,
+          "listOrder": 128,
+          "name": "Docubox",
+          "logoLight": "http://images.tvoli.com/channel-logos/14290.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14290_dark.png",
+          "tags": [
+            "hd",
+            "catch-up",
+            "pay"
+          ]
+        }
+      ],
+      "tags": [
+        "small"
+      ]
+    },
+    {
+      "id": "00009SEPAC",
+      "name": "Dansk",
+      "tagline": "Så mycket mer än pölse och Dogma. Se dansk TV i Sverige, på alla dina skärmar.",
+      "description": "Med de största public service-kanalerna i Danmark har vi satt ihop ett paket för dig som längtar hem till Skagen och Ströget ibland.",
+      "image": "https://images.tvoli.com/products/pack_se_danish.png",
+      "price": 2900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 1,
+          "listOrder": 36,
+          "name": "DR 1 Danmark",
+          "logoLight": "http://images.tvoli.com/channel-logos/1.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/1_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2,
+          "listOrder": 37,
+          "name": "DR 2 Danmark",
+          "logoLight": "http://images.tvoli.com/channel-logos/2.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10155,
+          "listOrder": 38,
+          "name": "DR3",
+          "logoLight": "http://images.tvoli.com/channel-logos/10155.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10155_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10154,
+          "listOrder": 39,
+          "name": "DR K",
+          "logoLight": "http://images.tvoli.com/channel-logos/10154.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10154_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10153,
+          "listOrder": 40,
+          "name": "DR Ramasjang",
+          "logoLight": "http://images.tvoli.com/channel-logos/10153.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10153_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 3,
+          "listOrder": 41,
+          "name": "TV 2 Danmark",
+          "logoLight": "http://images.tvoli.com/channel-logos/3.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/3_dark.png",
+          "tags": [
+            "international"
+          ]
+        }
+      ],
+      "channelIds": [
+        1,
+        2,
+        10155,
+        10154,
+        10153,
+        3
+      ],
+      "isInternal": false,
+      "usps": [
+        "Så mycket mer än pölse och Dogma",
+        "6 kanaler",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 1,
+          "listOrder": 36,
+          "name": "DR 1 Danmark",
+          "logoLight": "http://images.tvoli.com/channel-logos/1.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/1_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2,
+          "listOrder": 37,
+          "name": "DR 2 Danmark",
+          "logoLight": "http://images.tvoli.com/channel-logos/2.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10155,
+          "listOrder": 38,
+          "name": "DR3",
+          "logoLight": "http://images.tvoli.com/channel-logos/10155.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10155_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10154,
+          "listOrder": 39,
+          "name": "DR K",
+          "logoLight": "http://images.tvoli.com/channel-logos/10154.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10154_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10153,
+          "listOrder": 40,
+          "name": "DR Ramasjang",
+          "logoLight": "http://images.tvoli.com/channel-logos/10153.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10153_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 3,
+          "listOrder": 41,
+          "name": "TV 2 Danmark",
+          "logoLight": "http://images.tvoli.com/channel-logos/3.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/3_dark.png",
+          "tags": [
+            "international"
+          ]
+        }
+      ],
+      "tags": [
+        "medium",
+        "theme"
+      ]
+    },
+    {
+      "id": "00010SEPAC",
+      "name": "Suomi",
+      "tagline": "TV med sisu! Nu kan du titta på finska TV-kanaler var och när du vill.",
+      "description": "För finländare bosatta i Sverige. Sport, musik, underhållning, barnprogram och nyheter och skol-TV, Suomi-style.",
+      "image": "https://images.tvoli.com/products/pack_se_finland.png",
+      "price": 1900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 10206,
+          "listOrder": 44,
+          "name": "TV Finland",
+          "logoLight": "http://images.tvoli.com/channel-logos/10206.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10206_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 14089,
+          "listOrder": 42,
+          "name": "Yle TV1 HD",
+          "logoLight": "http://images.tvoli.com/channel-logos/14089.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14089_dark.png",
+          "tags": [
+            "hd",
+            "international"
+          ]
+        },
+        {
+          "id": 14090,
+          "listOrder": 43,
+          "name": "Yle TV2 HD",
+          "logoLight": "http://images.tvoli.com/channel-logos/14090.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14090_dark.png",
+          "tags": [
+            "hd",
+            "international"
+          ]
+        }
+      ],
+      "channelIds": [
+        10206,
+        14089,
+        14090
+      ],
+      "isInternal": false,
+      "usps": [
+        "TV med sisu",
+        "3 kanaler",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 10206,
+          "listOrder": 44,
+          "name": "TV Finland",
+          "logoLight": "http://images.tvoli.com/channel-logos/10206.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10206_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 14089,
+          "listOrder": 42,
+          "name": "Yle TV1 HD",
+          "logoLight": "http://images.tvoli.com/channel-logos/14089.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14089_dark.png",
+          "tags": [
+            "hd",
+            "international"
+          ]
+        },
+        {
+          "id": 14090,
+          "listOrder": 43,
+          "name": "Yle TV2 HD",
+          "logoLight": "http://images.tvoli.com/channel-logos/14090.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14090_dark.png",
+          "tags": [
+            "hd",
+            "international"
+          ]
+        }
+      ],
+      "tags": [
+        "medium",
+        "theme"
+      ]
+    },
+    {
+      "id": "00023SEPAC",
+      "name": "Norsk",
+      "tagline": "För dig som saknar fjordarna och lusekoftorna ibland. Se Norsk TV på alla dina skärmar!",
+      "description": "Här hittar du de största Norska kanalerna i ett pent litet paket.",
+      "image": "https://images.tvoli.com/products/pack_se_norway.png",
+      "price": 2900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 130,
+          "listOrder": 49,
+          "name": "NRK 1",
+          "logoLight": "http://images.tvoli.com/channel-logos/130.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/130_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 129,
+          "listOrder": 50,
+          "name": "NRK 2",
+          "logoLight": "http://images.tvoli.com/channel-logos/129.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/129_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 173,
+          "listOrder": 52,
+          "name": "NRK 3",
+          "logoLight": "http://images.tvoli.com/channel-logos/173.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/173_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 142,
+          "listOrder": 51,
+          "name": "TV 2",
+          "logoLight": "http://images.tvoli.com/channel-logos/142.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/142_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10003,
+          "listOrder": 53,
+          "name": "NRK Super",
+          "logoLight": "http://images.tvoli.com/channel-logos/10003.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10003_dark.png",
+          "tags": [
+            "international"
+          ]
+        }
+      ],
+      "channelIds": [
+        130,
+        129,
+        173,
+        142,
+        10003
+      ],
+      "isInternal": false,
+      "usps": [
+        "För dig som saknar fjordarna",
+        "5 kanaler",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 130,
+          "listOrder": 49,
+          "name": "NRK 1",
+          "logoLight": "http://images.tvoli.com/channel-logos/130.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/130_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 129,
+          "listOrder": 50,
+          "name": "NRK 2",
+          "logoLight": "http://images.tvoli.com/channel-logos/129.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/129_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 173,
+          "listOrder": 52,
+          "name": "NRK 3",
+          "logoLight": "http://images.tvoli.com/channel-logos/173.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/173_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 142,
+          "listOrder": 51,
+          "name": "TV 2",
+          "logoLight": "http://images.tvoli.com/channel-logos/142.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/142_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10003,
+          "listOrder": 53,
+          "name": "NRK Super",
+          "logoLight": "http://images.tvoli.com/channel-logos/10003.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10003_dark.png",
+          "tags": [
+            "international"
+          ]
+        }
+      ],
+      "tags": [
+        "medium",
+        "theme"
+      ]
+    },
+    {
+      "id": "00026SEPAC",
+      "name": "Türkçe",
+      "tagline": "Känn dig som hemma! Här får du turkiska kanaler på alla dina skärmar.",
+      "description": "Vi har samlat de bästa Turkiska TV-kanalerna i ett fint litet paket. Som i Turkiet, fast i Sverige!",
+      "image": "https://images.tvoli.com/products/pack_se_turk.png",
+      "price": 2900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 10203,
+          "listOrder": 204,
+          "name": "Kanal7 Avrupa",
+          "logoLight": "http://images.tvoli.com/channel-logos/10203.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10203_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10125,
+          "listOrder": 210,
+          "name": "TRT 1",
+          "logoLight": "http://images.tvoli.com/channel-logos/10125.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10125_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10130,
+          "listOrder": 211,
+          "name": "TRT Turk",
+          "logoLight": "http://images.tvoli.com/channel-logos/10130.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10130_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10126,
+          "listOrder": 212,
+          "name": "TRT Haber",
+          "logoLight": "http://images.tvoli.com/channel-logos/10126.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10126_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10129,
+          "listOrder": 213,
+          "name": "TRT Cocuk",
+          "logoLight": "http://images.tvoli.com/channel-logos/10129.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10129_dark.png",
+          "tags": [
+            "international"
+          ]
+        }
+      ],
+      "channelIds": [
+        10203,
+        10125,
+        10130,
+        10126,
+        10129
+      ],
+      "isInternal": false,
+      "usps": [
+        "Känn dig som hemma",
+        "5 kanaler",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 10203,
+          "listOrder": 204,
+          "name": "Kanal7 Avrupa",
+          "logoLight": "http://images.tvoli.com/channel-logos/10203.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10203_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10125,
+          "listOrder": 210,
+          "name": "TRT 1",
+          "logoLight": "http://images.tvoli.com/channel-logos/10125.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10125_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10130,
+          "listOrder": 211,
+          "name": "TRT Turk",
+          "logoLight": "http://images.tvoli.com/channel-logos/10130.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10130_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10126,
+          "listOrder": 212,
+          "name": "TRT Haber",
+          "logoLight": "http://images.tvoli.com/channel-logos/10126.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10126_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10129,
+          "listOrder": 213,
+          "name": "TRT Cocuk",
+          "logoLight": "http://images.tvoli.com/channel-logos/10129.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10129_dark.png",
+          "tags": [
+            "international"
+          ]
+        }
+      ],
+      "tags": [
+        "medium",
+        "theme"
+      ]
+    },
+    {
+      "id": "00025SEPAC",
+      "name": "Deutsch",
+      "tagline": "TV für alle!",
+      "description": "TV för dig som längtar hem till Tyskland. RTL, ProSieben, Sat.1, ARD, ZDF och tolv andra kanaler.",
+      "image": "https://images.tvoli.com/products/pack_se_tysk.png",
+      "price": 6900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 2001,
+          "listOrder": 187,
+          "name": "3SAT",
+          "logoLight": "http://images.tvoli.com/channel-logos/2001.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2001_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2002,
+          "listOrder": 180,
+          "name": "Das Erste",
+          "logoLight": "http://images.tvoli.com/channel-logos/2002.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2002_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2003,
+          "listOrder": 189,
+          "name": "phoenix",
+          "logoLight": "http://images.tvoli.com/channel-logos/2003.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2003_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2004,
+          "listOrder": 188,
+          "name": "ARTE",
+          "logoLight": "http://images.tvoli.com/channel-logos/2004.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2004_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2005,
+          "listOrder": 194,
+          "name": "Bayerisches Fernsehen Nord HD",
+          "logoLight": "http://images.tvoli.com/channel-logos/2005.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2005_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2006,
+          "listOrder": 195,
+          "name": "hr-fernsehen",
+          "logoLight": "http://images.tvoli.com/channel-logos/2006.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2006_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2007,
+          "listOrder": 192,
+          "name": "MDR Fernsehen Sachsen",
+          "logoLight": "http://images.tvoli.com/channel-logos/2007.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2007_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2008,
+          "listOrder": 191,
+          "name": "NDR FS Hamburg",
+          "logoLight": "http://images.tvoli.com/channel-logos/2008.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2008_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2009,
+          "listOrder": 184,
+          "name": "Pro Sieben",
+          "logoLight": "http://images.tvoli.com/channel-logos/2009.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2009_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2010,
+          "listOrder": 190,
+          "name": "rbb Berlin",
+          "logoLight": "http://images.tvoli.com/channel-logos/2010.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2010_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2011,
+          "listOrder": 182,
+          "name": "RTL",
+          "logoLight": "http://images.tvoli.com/channel-logos/2011.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2011_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2012,
+          "listOrder": 185,
+          "name": "RTL 2",
+          "logoLight": "http://images.tvoli.com/channel-logos/2012.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2012_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2013,
+          "listOrder": 186,
+          "name": "RTL Nitro",
+          "logoLight": "http://images.tvoli.com/channel-logos/2013.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2013_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2014,
+          "listOrder": 183,
+          "name": "Sat.1",
+          "logoLight": "http://images.tvoli.com/channel-logos/2014.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2014_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2015,
+          "listOrder": 193,
+          "name": "SWR Fernsehen Rheinland-Pfalz",
+          "logoLight": "http://images.tvoli.com/channel-logos/2015.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2015_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2016,
+          "listOrder": 196,
+          "name": "WDR Fernsehen Köln",
+          "logoLight": "http://images.tvoli.com/channel-logos/2016.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2016_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2017,
+          "listOrder": 181,
+          "name": "ZDF",
+          "logoLight": "http://images.tvoli.com/channel-logos/2017.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2017_dark.png",
+          "tags": [
+            "international"
+          ]
+        }
+      ],
+      "channelIds": [
+        2001,
+        2002,
+        2003,
+        2004,
+        2005,
+        2006,
+        2007,
+        2008,
+        2009,
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016,
+        2017
+      ],
+      "isInternal": false,
+      "usps": [
+        "TV für alle!",
+        "17 kanaler",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 2001,
+          "listOrder": 187,
+          "name": "3SAT",
+          "logoLight": "http://images.tvoli.com/channel-logos/2001.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2001_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2002,
+          "listOrder": 180,
+          "name": "Das Erste",
+          "logoLight": "http://images.tvoli.com/channel-logos/2002.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2002_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2003,
+          "listOrder": 189,
+          "name": "phoenix",
+          "logoLight": "http://images.tvoli.com/channel-logos/2003.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2003_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2004,
+          "listOrder": 188,
+          "name": "ARTE",
+          "logoLight": "http://images.tvoli.com/channel-logos/2004.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2004_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2005,
+          "listOrder": 194,
+          "name": "Bayerisches Fernsehen Nord HD",
+          "logoLight": "http://images.tvoli.com/channel-logos/2005.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2005_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2006,
+          "listOrder": 195,
+          "name": "hr-fernsehen",
+          "logoLight": "http://images.tvoli.com/channel-logos/2006.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2006_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2007,
+          "listOrder": 192,
+          "name": "MDR Fernsehen Sachsen",
+          "logoLight": "http://images.tvoli.com/channel-logos/2007.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2007_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2008,
+          "listOrder": 191,
+          "name": "NDR FS Hamburg",
+          "logoLight": "http://images.tvoli.com/channel-logos/2008.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2008_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2009,
+          "listOrder": 184,
+          "name": "Pro Sieben",
+          "logoLight": "http://images.tvoli.com/channel-logos/2009.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2009_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2010,
+          "listOrder": 190,
+          "name": "rbb Berlin",
+          "logoLight": "http://images.tvoli.com/channel-logos/2010.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2010_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 2011,
+          "listOrder": 182,
+          "name": "RTL",
+          "logoLight": "http://images.tvoli.com/channel-logos/2011.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/2011_dark.png",
+          "tags": [
+            "international"
+          ]
+        }
+      ],
+      "tags": [
+        "medium",
+        "theme"
+      ]
+    },
+    {
+      "id": "00012SEPAC",
+      "name": "Polski",
+      "tagline": "En liten bit av Polen, på alla dina skärmar.",
+      "description": "Polsk TV till din dator, smartphone, tablet eller Smart TV.",
+      "image": "https://images.tvoli.com/products/pack_se_polski.png",
+      "price": 2900,
+      "currency": "SEK",
+      "countryCode": "SE",
+      "channels": [
+        {
+          "id": 10925,
+          "listOrder": 46,
+          "name": "Polonia 1",
+          "logoLight": "http://images.tvoli.com/channel-logos/10925.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10925_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10142,
+          "listOrder": 47,
+          "name": "TVP Polonia",
+          "logoLight": "http://images.tvoli.com/channel-logos/10142.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10142_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10924,
+          "listOrder": 48,
+          "name": "Tele 5",
+          "logoLight": "http://images.tvoli.com/channel-logos/10924.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10924_dark.png",
+          "tags": [
+            "international"
+          ]
+        }
+      ],
+      "channelIds": [
+        10925,
+        10142,
+        10924
+      ],
+      "isInternal": false,
+      "usps": [
+        "En liten bit av Polen",
+        "3 kanaler",
+        "Ingen bindningstid"
+      ],
+      "topChannels": [
+        {
+          "id": 10925,
+          "listOrder": 46,
+          "name": "Polonia 1",
+          "logoLight": "http://images.tvoli.com/channel-logos/10925.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10925_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10142,
+          "listOrder": 47,
+          "name": "TVP Polonia",
+          "logoLight": "http://images.tvoli.com/channel-logos/10142.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10142_dark.png",
+          "tags": [
+            "international"
+          ]
+        },
+        {
+          "id": 10924,
+          "listOrder": 48,
+          "name": "Tele 5",
+          "logoLight": "http://images.tvoli.com/channel-logos/10924.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10924_dark.png",
+          "tags": [
+            "international"
+          ]
+        }
+      ],
+      "tags": [
+        "medium",
+        "theme"
+      ]
+    }
+  ],
+  "bundles": [
+    {
+      "id": "00000SEBUN",
+      "name": "Free",
+      "description": "",
+      "image": "https://images.tvoli.com/products/bundle_free.jpg",
+      "products": [
+        {
+          "id": "0FREESEPAC",
+          "name": "Free",
+          "tagline": "",
+          "description": "Du får alltid detta paket och det är alltid gratis",
+          "image": "https://images.tvoli.com/products/pack_se_free.png",
+          "price": 0,
+          "currency": "SEK",
+          "countryCode": "SE",
+          "channels": [
+            {
+              "id": 135,
+              "listOrder": 1,
+              "name": "SVT1",
+              "logoLight": "http://images.tvoli.com/channel-logos/135.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/135_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 136,
+              "listOrder": 2,
+              "name": "SVT2",
+              "logoLight": "http://images.tvoli.com/channel-logos/136.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/136_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 137,
+              "listOrder": 20,
+              "name": "SVT 24",
+              "logoLight": "http://images.tvoli.com/channel-logos/137.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/137_dark.png",
+              "tags": [
+                "facts"
+              ]
+            },
+            {
+              "id": 140,
+              "listOrder": 19,
+              "name": "Kunskapskanalen",
+              "logoLight": "http://images.tvoli.com/channel-logos/140.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/140_dark.png",
+              "tags": [
+                "facts"
+              ]
+            },
+            {
+              "id": 139,
+              "listOrder": 29,
+              "name": "Barnkanalen",
+              "logoLight": "http://images.tvoli.com/channel-logos/139.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/139_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 13882,
+              "listOrder": 31,
+              "name": "Aftonbladet TV",
+              "logoLight": "http://images.tvoli.com/channel-logos/13882.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/13882_dark.png",
+              "tags": [
+
+              ]
+            }
+          ],
+          "channelIds": [
+            135,
+            136,
+            137,
+            140,
+            139,
+            13882
+          ],
+          "isInternal": false,
+          "usps": [
+            "På alla dina enheter",
+            "Ett paket som passar alla",
+            "Våra mest populära kanaler"
+          ],
+          "topChannels": [
+            {
+              "id": 135,
+              "listOrder": 1,
+              "name": "SVT1",
+              "logoLight": "http://images.tvoli.com/channel-logos/135.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/135_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 136,
+              "listOrder": 2,
+              "name": "SVT2",
+              "logoLight": "http://images.tvoli.com/channel-logos/136.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/136_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 137,
+              "listOrder": 20,
+              "name": "SVT 24",
+              "logoLight": "http://images.tvoli.com/channel-logos/137.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/137_dark.png",
+              "tags": [
+                "facts"
+              ]
+            },
+            {
+              "id": 140,
+              "listOrder": 19,
+              "name": "Kunskapskanalen",
+              "logoLight": "http://images.tvoli.com/channel-logos/140.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/140_dark.png",
+              "tags": [
+                "facts"
+              ]
+            },
+            {
+              "id": 139,
+              "listOrder": 29,
+              "name": "Barnkanalen",
+              "logoLight": "http://images.tvoli.com/channel-logos/139.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/139_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 13882,
+              "listOrder": 31,
+              "name": "Aftonbladet TV",
+              "logoLight": "http://images.tvoli.com/channel-logos/13882.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/13882_dark.png",
+              "tags": [
+
+              ]
+            }
+          ],
+          "tags": [
+
+          ]
+        }
+      ],
+      "channels": [
+        {
+          "id": 135,
+          "listOrder": 1,
+          "name": "SVT1",
+          "logoLight": "http://images.tvoli.com/channel-logos/135.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/135_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 136,
+          "listOrder": 2,
+          "name": "SVT2",
+          "logoLight": "http://images.tvoli.com/channel-logos/136.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/136_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 137,
+          "listOrder": 20,
+          "name": "SVT 24",
+          "logoLight": "http://images.tvoli.com/channel-logos/137.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/137_dark.png",
+          "tags": [
+            "facts"
+          ]
+        },
+        {
+          "id": 140,
+          "listOrder": 19,
+          "name": "Kunskapskanalen",
+          "logoLight": "http://images.tvoli.com/channel-logos/140.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/140_dark.png",
+          "tags": [
+            "facts"
+          ]
+        },
+        {
+          "id": 139,
+          "listOrder": 29,
+          "name": "Barnkanalen",
+          "logoLight": "http://images.tvoli.com/channel-logos/139.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/139_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 13882,
+          "listOrder": 31,
+          "name": "Aftonbladet TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/13882.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/13882_dark.png",
+          "tags": [
+
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00001SEBUN",
+      "name": "Medium",
+      "description": "",
+      "image": "https://images.tvoli.com/products/bundle_medium.jpg",
+      "products": [
+        {
+          "id": "0FREESEPAC",
+          "name": "Free",
+          "tagline": "",
+          "description": "Du får alltid detta paket och det är alltid gratis",
+          "image": "https://images.tvoli.com/products/pack_se_free.png",
+          "price": 0,
+          "currency": "SEK",
+          "countryCode": "SE",
+          "channels": [
+            {
+              "id": 135,
+              "listOrder": 1,
+              "name": "SVT1",
+              "logoLight": "http://images.tvoli.com/channel-logos/135.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/135_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 136,
+              "listOrder": 2,
+              "name": "SVT2",
+              "logoLight": "http://images.tvoli.com/channel-logos/136.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/136_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 137,
+              "listOrder": 20,
+              "name": "SVT 24",
+              "logoLight": "http://images.tvoli.com/channel-logos/137.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/137_dark.png",
+              "tags": [
+                "facts"
+              ]
+            },
+            {
+              "id": 140,
+              "listOrder": 19,
+              "name": "Kunskapskanalen",
+              "logoLight": "http://images.tvoli.com/channel-logos/140.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/140_dark.png",
+              "tags": [
+                "facts"
+              ]
+            },
+            {
+              "id": 139,
+              "listOrder": 29,
+              "name": "Barnkanalen",
+              "logoLight": "http://images.tvoli.com/channel-logos/139.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/139_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 13882,
+              "listOrder": 31,
+              "name": "Aftonbladet TV",
+              "logoLight": "http://images.tvoli.com/channel-logos/13882.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/13882_dark.png",
+              "tags": [
+
+              ]
+            }
+          ],
+          "channelIds": [
+            135,
+            136,
+            137,
+            140,
+            139,
+            13882
+          ],
+          "isInternal": false,
+          "usps": [
+            "På alla dina enheter",
+            "Ett paket som passar alla",
+            "Våra mest populära kanaler"
+          ],
+          "topChannels": [
+            {
+              "id": 135,
+              "listOrder": 1,
+              "name": "SVT1",
+              "logoLight": "http://images.tvoli.com/channel-logos/135.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/135_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 136,
+              "listOrder": 2,
+              "name": "SVT2",
+              "logoLight": "http://images.tvoli.com/channel-logos/136.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/136_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 137,
+              "listOrder": 20,
+              "name": "SVT 24",
+              "logoLight": "http://images.tvoli.com/channel-logos/137.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/137_dark.png",
+              "tags": [
+                "facts"
+              ]
+            },
+            {
+              "id": 140,
+              "listOrder": 19,
+              "name": "Kunskapskanalen",
+              "logoLight": "http://images.tvoli.com/channel-logos/140.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/140_dark.png",
+              "tags": [
+                "facts"
+              ]
+            },
+            {
+              "id": 139,
+              "listOrder": 29,
+              "name": "Barnkanalen",
+              "logoLight": "http://images.tvoli.com/channel-logos/139.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/139_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 13882,
+              "listOrder": 31,
+              "name": "Aftonbladet TV",
+              "logoLight": "http://images.tvoli.com/channel-logos/13882.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/13882_dark.png",
+              "tags": [
+
+              ]
+            }
+          ],
+          "tags": [
+
+          ]
+        },
+        {
+          "id": "00001SEPAC",
+          "name": "Magic",
+          "tagline": "Här hittar du massor av bra TV för alla åldrar, intressen och tillfällen. Du kan även lägga till temapaket och enskilda kanaler precis som du vill och få TV precis som du vill ha det.",
+          "description": "Magic är 23 särskilt utvalda kanaler som ger dig det mesta av det bästa.",
+          "image": "https://images.tvoli.com/products/pack_magic.jpg",
+          "price": 9900,
+          "currency": "SEK",
+          "countryCode": "SE",
+          "channels": [
+            {
+              "id": 191,
+              "listOrder": 32,
+              "name": "BBC World News",
+              "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 12397,
+              "listOrder": 4,
+              "name": "BBC Brit",
+              "logoLight": "http://images.tvoli.com/channel-logos/12397.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/12397_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 10061,
+              "listOrder": 33,
+              "name": "BBC Earth",
+              "logoLight": "http://images.tvoli.com/channel-logos/10061.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10061_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 181,
+              "listOrder": 125,
+              "name": "CNN",
+              "logoLight": "http://images.tvoli.com/channel-logos/181.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/181_dark.png",
+              "tags": [
+                "catch-up",
+                "pay"
+              ]
+            },
+            {
+              "id": 10198,
+              "listOrder": 15,
+              "name": "TNT",
+              "logoLight": "http://images.tvoli.com/channel-logos/10198.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10198_dark.png",
+              "tags": [
+                "entertainment"
+              ]
+            },
+            {
+              "id": 232,
+              "listOrder": 24,
+              "name": "Cartoon Network",
+              "logoLight": "http://images.tvoli.com/channel-logos/232.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/232_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 250,
+              "listOrder": 27,
+              "name": "Boomerang",
+              "logoLight": "http://images.tvoli.com/channel-logos/250.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/250_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 154,
+              "listOrder": 22,
+              "name": "Nickelodeon",
+              "logoLight": "http://images.tvoli.com/channel-logos/154.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/154_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 11227,
+              "listOrder": 26,
+              "name": "Nick Jr",
+              "logoLight": "http://images.tvoli.com/channel-logos/11227.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/11227_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 72,
+              "listOrder": 12,
+              "name": "MTV",
+              "logoLight": "http://images.tvoli.com/channel-logos/72.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/72_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 176,
+              "listOrder": 16,
+              "name": "Eurosport",
+              "logoLight": "http://images.tvoli.com/channel-logos/176.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/176_dark.png",
+              "tags": [
+                "popular"
+              ]
+            },
+            {
+              "id": 227,
+              "listOrder": 5,
+              "name": "National Geographic Channel",
+              "logoLight": "http://images.tvoli.com/channel-logos/227.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/227_dark.png",
+              "tags": [
+                "popular",
+                "facts"
+              ]
+            },
+            {
+              "id": 11573,
+              "listOrder": 6,
+              "name": "National Geographic Wild",
+              "logoLight": "http://images.tvoli.com/channel-logos/11573.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/11573_dark.png",
+              "tags": [
+                "facts"
+              ]
+            },
+            {
+              "id": 52,
+              "listOrder": 21,
+              "name": "Disney",
+              "logoLight": "http://images.tvoli.com/channel-logos/52.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/52_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 158,
+              "listOrder": 25,
+              "name": "Disney Junior",
+              "logoLight": "http://images.tvoli.com/channel-logos/158.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/158_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 75,
+              "listOrder": 23,
+              "name": "Disney XD",
+              "logoLight": "http://images.tvoli.com/channel-logos/75.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/75_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 119,
+              "listOrder": 7,
+              "name": "Discovery",
+              "logoLight": "http://images.tvoli.com/channel-logos/119.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/119_dark.png",
+              "tags": [
+                "popular",
+                "facts"
+              ]
+            },
+            {
+              "id": 123,
+              "listOrder": 3,
+              "name": "TLC",
+              "logoLight": "http://images.tvoli.com/channel-logos/123.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/123_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 120,
+              "listOrder": 11,
+              "name": "Animal Planet",
+              "logoLight": "http://images.tvoli.com/channel-logos/120.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/120_dark.png",
+              "tags": [
+                "popular",
+                "facts"
+              ]
+            },
+            {
+              "id": 10196,
+              "listOrder": 13,
+              "name": "Comedy Central Sweden",
+              "logoLight": "http://images.tvoli.com/channel-logos/10196.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10196_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 178,
+              "listOrder": 17,
+              "name": "Eurosport 2",
+              "logoLight": "http://images.tvoli.com/channel-logos/178.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/178_dark.png",
+              "tags": [
+                "hd",
+                "popular"
+              ]
+            },
+            {
+              "id": 10116,
+              "listOrder": 178,
+              "name": "Al Jazeera",
+              "logoLight": "http://images.tvoli.com/channel-logos/10116.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10116_dark.png",
+              "tags": [
+                "catch-up"
+              ]
+            },
+            {
+              "id": 15199,
+              "listOrder": 14,
+              "name": "Paramount",
+              "logoLight": "http://images.tvoli.com/channel-logos/15199.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/15199_dark.png",
+              "tags": [
+                "film"
+              ]
+            }
+          ],
+          "channelIds": [
+            191,
+            12397,
+            10061,
+            181,
+            10198,
+            232,
+            250,
+            154,
+            11227,
+            72,
+            176,
+            227,
+            11573,
+            52,
+            158,
+            75,
+            119,
+            123,
+            120,
+            10196,
+            178,
+            10116,
+            15199
+          ],
+          "isInternal": false,
+          "usps": [
+            "På alla dina enheter",
+            "Ett paket som passar alla",
+            "Våra mest populära kanaler"
+          ],
+          "topChannels": [
+            {
+              "id": 191,
+              "listOrder": 32,
+              "name": "BBC World News",
+              "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 12397,
+              "listOrder": 4,
+              "name": "BBC Brit",
+              "logoLight": "http://images.tvoli.com/channel-logos/12397.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/12397_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 10061,
+              "listOrder": 33,
+              "name": "BBC Earth",
+              "logoLight": "http://images.tvoli.com/channel-logos/10061.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10061_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 181,
+              "listOrder": 125,
+              "name": "CNN",
+              "logoLight": "http://images.tvoli.com/channel-logos/181.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/181_dark.png",
+              "tags": [
+                "catch-up",
+                "pay"
+              ]
+            },
+            {
+              "id": 10198,
+              "listOrder": 15,
+              "name": "TNT",
+              "logoLight": "http://images.tvoli.com/channel-logos/10198.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10198_dark.png",
+              "tags": [
+                "entertainment"
+              ]
+            },
+            {
+              "id": 232,
+              "listOrder": 24,
+              "name": "Cartoon Network",
+              "logoLight": "http://images.tvoli.com/channel-logos/232.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/232_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 250,
+              "listOrder": 27,
+              "name": "Boomerang",
+              "logoLight": "http://images.tvoli.com/channel-logos/250.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/250_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 154,
+              "listOrder": 22,
+              "name": "Nickelodeon",
+              "logoLight": "http://images.tvoli.com/channel-logos/154.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/154_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 11227,
+              "listOrder": 26,
+              "name": "Nick Jr",
+              "logoLight": "http://images.tvoli.com/channel-logos/11227.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/11227_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 72,
+              "listOrder": 12,
+              "name": "MTV",
+              "logoLight": "http://images.tvoli.com/channel-logos/72.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/72_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 176,
+              "listOrder": 16,
+              "name": "Eurosport",
+              "logoLight": "http://images.tvoli.com/channel-logos/176.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/176_dark.png",
+              "tags": [
+                "popular"
+              ]
+            }
+          ],
+          "tags": [
+            "large",
+            "recommended"
+          ]
+        }
+      ],
+      "channels": [
+        {
+          "id": 135,
+          "listOrder": 1,
+          "name": "SVT1",
+          "logoLight": "http://images.tvoli.com/channel-logos/135.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/135_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 136,
+          "listOrder": 2,
+          "name": "SVT2",
+          "logoLight": "http://images.tvoli.com/channel-logos/136.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/136_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 137,
+          "listOrder": 20,
+          "name": "SVT 24",
+          "logoLight": "http://images.tvoli.com/channel-logos/137.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/137_dark.png",
+          "tags": [
+            "facts"
+          ]
+        },
+        {
+          "id": 140,
+          "listOrder": 19,
+          "name": "Kunskapskanalen",
+          "logoLight": "http://images.tvoli.com/channel-logos/140.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/140_dark.png",
+          "tags": [
+            "facts"
+          ]
+        },
+        {
+          "id": 139,
+          "listOrder": 29,
+          "name": "Barnkanalen",
+          "logoLight": "http://images.tvoli.com/channel-logos/139.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/139_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 13882,
+          "listOrder": 31,
+          "name": "Aftonbladet TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/13882.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/13882_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 191,
+          "listOrder": 32,
+          "name": "BBC World News",
+          "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 12397,
+          "listOrder": 4,
+          "name": "BBC Brit",
+          "logoLight": "http://images.tvoli.com/channel-logos/12397.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/12397_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 10061,
+          "listOrder": 33,
+          "name": "BBC Earth",
+          "logoLight": "http://images.tvoli.com/channel-logos/10061.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10061_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 181,
+          "listOrder": 125,
+          "name": "CNN",
+          "logoLight": "http://images.tvoli.com/channel-logos/181.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/181_dark.png",
+          "tags": [
+            "catch-up",
+            "pay"
+          ]
+        },
+        {
+          "id": 10198,
+          "listOrder": 15,
+          "name": "TNT",
+          "logoLight": "http://images.tvoli.com/channel-logos/10198.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10198_dark.png",
+          "tags": [
+            "entertainment"
+          ]
+        },
+        {
+          "id": 232,
+          "listOrder": 24,
+          "name": "Cartoon Network",
+          "logoLight": "http://images.tvoli.com/channel-logos/232.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/232_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 250,
+          "listOrder": 27,
+          "name": "Boomerang",
+          "logoLight": "http://images.tvoli.com/channel-logos/250.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/250_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 154,
+          "listOrder": 22,
+          "name": "Nickelodeon",
+          "logoLight": "http://images.tvoli.com/channel-logos/154.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/154_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 11227,
+          "listOrder": 26,
+          "name": "Nick Jr",
+          "logoLight": "http://images.tvoli.com/channel-logos/11227.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/11227_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 72,
+          "listOrder": 12,
+          "name": "MTV",
+          "logoLight": "http://images.tvoli.com/channel-logos/72.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/72_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 176,
+          "listOrder": 16,
+          "name": "Eurosport",
+          "logoLight": "http://images.tvoli.com/channel-logos/176.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/176_dark.png",
+          "tags": [
+            "popular"
+          ]
+        },
+        {
+          "id": 227,
+          "listOrder": 5,
+          "name": "National Geographic Channel",
+          "logoLight": "http://images.tvoli.com/channel-logos/227.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/227_dark.png",
+          "tags": [
+            "popular",
+            "facts"
+          ]
+        },
+        {
+          "id": 11573,
+          "listOrder": 6,
+          "name": "National Geographic Wild",
+          "logoLight": "http://images.tvoli.com/channel-logos/11573.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/11573_dark.png",
+          "tags": [
+            "facts"
+          ]
+        },
+        {
+          "id": 52,
+          "listOrder": 21,
+          "name": "Disney",
+          "logoLight": "http://images.tvoli.com/channel-logos/52.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/52_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 158,
+          "listOrder": 25,
+          "name": "Disney Junior",
+          "logoLight": "http://images.tvoli.com/channel-logos/158.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/158_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 75,
+          "listOrder": 23,
+          "name": "Disney XD",
+          "logoLight": "http://images.tvoli.com/channel-logos/75.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/75_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 119,
+          "listOrder": 7,
+          "name": "Discovery",
+          "logoLight": "http://images.tvoli.com/channel-logos/119.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/119_dark.png",
+          "tags": [
+            "popular",
+            "facts"
+          ]
+        },
+        {
+          "id": 123,
+          "listOrder": 3,
+          "name": "TLC",
+          "logoLight": "http://images.tvoli.com/channel-logos/123.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/123_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 120,
+          "listOrder": 11,
+          "name": "Animal Planet",
+          "logoLight": "http://images.tvoli.com/channel-logos/120.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/120_dark.png",
+          "tags": [
+            "popular",
+            "facts"
+          ]
+        },
+        {
+          "id": 10196,
+          "listOrder": 13,
+          "name": "Comedy Central Sweden",
+          "logoLight": "http://images.tvoli.com/channel-logos/10196.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10196_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 178,
+          "listOrder": 17,
+          "name": "Eurosport 2",
+          "logoLight": "http://images.tvoli.com/channel-logos/178.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/178_dark.png",
+          "tags": [
+            "hd",
+            "popular"
+          ]
+        },
+        {
+          "id": 10116,
+          "listOrder": 178,
+          "name": "Al Jazeera",
+          "logoLight": "http://images.tvoli.com/channel-logos/10116.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10116_dark.png",
+          "tags": [
+            "catch-up"
+          ]
+        },
+        {
+          "id": 15199,
+          "listOrder": 14,
+          "name": "Paramount",
+          "logoLight": "http://images.tvoli.com/channel-logos/15199.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/15199_dark.png",
+          "tags": [
+            "film"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "00002SEBUN",
+      "name": "Large",
+      "description": "",
+      "image": "https://images.tvoli.com/products/bundle_large.jpg",
+      "products": [
+        {
+          "id": "0FREESEPAC",
+          "name": "Free",
+          "tagline": "",
+          "description": "Du får alltid detta paket och det är alltid gratis",
+          "image": "https://images.tvoli.com/products/pack_se_free.png",
+          "price": 0,
+          "currency": "SEK",
+          "countryCode": "SE",
+          "channels": [
+            {
+              "id": 135,
+              "listOrder": 1,
+              "name": "SVT1",
+              "logoLight": "http://images.tvoli.com/channel-logos/135.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/135_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 136,
+              "listOrder": 2,
+              "name": "SVT2",
+              "logoLight": "http://images.tvoli.com/channel-logos/136.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/136_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 137,
+              "listOrder": 20,
+              "name": "SVT 24",
+              "logoLight": "http://images.tvoli.com/channel-logos/137.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/137_dark.png",
+              "tags": [
+                "facts"
+              ]
+            },
+            {
+              "id": 140,
+              "listOrder": 19,
+              "name": "Kunskapskanalen",
+              "logoLight": "http://images.tvoli.com/channel-logos/140.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/140_dark.png",
+              "tags": [
+                "facts"
+              ]
+            },
+            {
+              "id": 139,
+              "listOrder": 29,
+              "name": "Barnkanalen",
+              "logoLight": "http://images.tvoli.com/channel-logos/139.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/139_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 13882,
+              "listOrder": 31,
+              "name": "Aftonbladet TV",
+              "logoLight": "http://images.tvoli.com/channel-logos/13882.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/13882_dark.png",
+              "tags": [
+
+              ]
+            }
+          ],
+          "channelIds": [
+            135,
+            136,
+            137,
+            140,
+            139,
+            13882
+          ],
+          "isInternal": false,
+          "usps": [
+            "På alla dina enheter",
+            "Ett paket som passar alla",
+            "Våra mest populära kanaler"
+          ],
+          "topChannels": [
+            {
+              "id": 135,
+              "listOrder": 1,
+              "name": "SVT1",
+              "logoLight": "http://images.tvoli.com/channel-logos/135.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/135_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 136,
+              "listOrder": 2,
+              "name": "SVT2",
+              "logoLight": "http://images.tvoli.com/channel-logos/136.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/136_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 137,
+              "listOrder": 20,
+              "name": "SVT 24",
+              "logoLight": "http://images.tvoli.com/channel-logos/137.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/137_dark.png",
+              "tags": [
+                "facts"
+              ]
+            },
+            {
+              "id": 140,
+              "listOrder": 19,
+              "name": "Kunskapskanalen",
+              "logoLight": "http://images.tvoli.com/channel-logos/140.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/140_dark.png",
+              "tags": [
+                "facts"
+              ]
+            },
+            {
+              "id": 139,
+              "listOrder": 29,
+              "name": "Barnkanalen",
+              "logoLight": "http://images.tvoli.com/channel-logos/139.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/139_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 13882,
+              "listOrder": 31,
+              "name": "Aftonbladet TV",
+              "logoLight": "http://images.tvoli.com/channel-logos/13882.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/13882_dark.png",
+              "tags": [
+
+              ]
+            }
+          ],
+          "tags": [
+
+          ]
+        },
+        {
+          "id": "00001SEPAC",
+          "name": "Magic",
+          "tagline": "Här hittar du massor av bra TV för alla åldrar, intressen och tillfällen. Du kan även lägga till temapaket och enskilda kanaler precis som du vill och få TV precis som du vill ha det.",
+          "description": "Magic är 23 särskilt utvalda kanaler som ger dig det mesta av det bästa.",
+          "image": "https://images.tvoli.com/products/pack_magic.jpg",
+          "price": 9900,
+          "currency": "SEK",
+          "countryCode": "SE",
+          "channels": [
+            {
+              "id": 191,
+              "listOrder": 32,
+              "name": "BBC World News",
+              "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 12397,
+              "listOrder": 4,
+              "name": "BBC Brit",
+              "logoLight": "http://images.tvoli.com/channel-logos/12397.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/12397_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 10061,
+              "listOrder": 33,
+              "name": "BBC Earth",
+              "logoLight": "http://images.tvoli.com/channel-logos/10061.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10061_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 181,
+              "listOrder": 125,
+              "name": "CNN",
+              "logoLight": "http://images.tvoli.com/channel-logos/181.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/181_dark.png",
+              "tags": [
+                "catch-up",
+                "pay"
+              ]
+            },
+            {
+              "id": 10198,
+              "listOrder": 15,
+              "name": "TNT",
+              "logoLight": "http://images.tvoli.com/channel-logos/10198.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10198_dark.png",
+              "tags": [
+                "entertainment"
+              ]
+            },
+            {
+              "id": 232,
+              "listOrder": 24,
+              "name": "Cartoon Network",
+              "logoLight": "http://images.tvoli.com/channel-logos/232.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/232_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 250,
+              "listOrder": 27,
+              "name": "Boomerang",
+              "logoLight": "http://images.tvoli.com/channel-logos/250.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/250_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 154,
+              "listOrder": 22,
+              "name": "Nickelodeon",
+              "logoLight": "http://images.tvoli.com/channel-logos/154.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/154_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 11227,
+              "listOrder": 26,
+              "name": "Nick Jr",
+              "logoLight": "http://images.tvoli.com/channel-logos/11227.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/11227_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 72,
+              "listOrder": 12,
+              "name": "MTV",
+              "logoLight": "http://images.tvoli.com/channel-logos/72.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/72_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 176,
+              "listOrder": 16,
+              "name": "Eurosport",
+              "logoLight": "http://images.tvoli.com/channel-logos/176.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/176_dark.png",
+              "tags": [
+                "popular"
+              ]
+            },
+            {
+              "id": 227,
+              "listOrder": 5,
+              "name": "National Geographic Channel",
+              "logoLight": "http://images.tvoli.com/channel-logos/227.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/227_dark.png",
+              "tags": [
+                "popular",
+                "facts"
+              ]
+            },
+            {
+              "id": 11573,
+              "listOrder": 6,
+              "name": "National Geographic Wild",
+              "logoLight": "http://images.tvoli.com/channel-logos/11573.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/11573_dark.png",
+              "tags": [
+                "facts"
+              ]
+            },
+            {
+              "id": 52,
+              "listOrder": 21,
+              "name": "Disney",
+              "logoLight": "http://images.tvoli.com/channel-logos/52.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/52_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 158,
+              "listOrder": 25,
+              "name": "Disney Junior",
+              "logoLight": "http://images.tvoli.com/channel-logos/158.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/158_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 75,
+              "listOrder": 23,
+              "name": "Disney XD",
+              "logoLight": "http://images.tvoli.com/channel-logos/75.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/75_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 119,
+              "listOrder": 7,
+              "name": "Discovery",
+              "logoLight": "http://images.tvoli.com/channel-logos/119.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/119_dark.png",
+              "tags": [
+                "popular",
+                "facts"
+              ]
+            },
+            {
+              "id": 123,
+              "listOrder": 3,
+              "name": "TLC",
+              "logoLight": "http://images.tvoli.com/channel-logos/123.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/123_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 120,
+              "listOrder": 11,
+              "name": "Animal Planet",
+              "logoLight": "http://images.tvoli.com/channel-logos/120.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/120_dark.png",
+              "tags": [
+                "popular",
+                "facts"
+              ]
+            },
+            {
+              "id": 10196,
+              "listOrder": 13,
+              "name": "Comedy Central Sweden",
+              "logoLight": "http://images.tvoli.com/channel-logos/10196.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10196_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 178,
+              "listOrder": 17,
+              "name": "Eurosport 2",
+              "logoLight": "http://images.tvoli.com/channel-logos/178.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/178_dark.png",
+              "tags": [
+                "hd",
+                "popular"
+              ]
+            },
+            {
+              "id": 10116,
+              "listOrder": 178,
+              "name": "Al Jazeera",
+              "logoLight": "http://images.tvoli.com/channel-logos/10116.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10116_dark.png",
+              "tags": [
+                "catch-up"
+              ]
+            },
+            {
+              "id": 15199,
+              "listOrder": 14,
+              "name": "Paramount",
+              "logoLight": "http://images.tvoli.com/channel-logos/15199.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/15199_dark.png",
+              "tags": [
+                "film"
+              ]
+            }
+          ],
+          "channelIds": [
+            191,
+            12397,
+            10061,
+            181,
+            10198,
+            232,
+            250,
+            154,
+            11227,
+            72,
+            176,
+            227,
+            11573,
+            52,
+            158,
+            75,
+            119,
+            123,
+            120,
+            10196,
+            178,
+            10116,
+            15199
+          ],
+          "isInternal": false,
+          "usps": [
+            "På alla dina enheter",
+            "Ett paket som passar alla",
+            "Våra mest populära kanaler"
+          ],
+          "topChannels": [
+            {
+              "id": 191,
+              "listOrder": 32,
+              "name": "BBC World News",
+              "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 12397,
+              "listOrder": 4,
+              "name": "BBC Brit",
+              "logoLight": "http://images.tvoli.com/channel-logos/12397.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/12397_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 10061,
+              "listOrder": 33,
+              "name": "BBC Earth",
+              "logoLight": "http://images.tvoli.com/channel-logos/10061.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10061_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 181,
+              "listOrder": 125,
+              "name": "CNN",
+              "logoLight": "http://images.tvoli.com/channel-logos/181.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/181_dark.png",
+              "tags": [
+                "catch-up",
+                "pay"
+              ]
+            },
+            {
+              "id": 10198,
+              "listOrder": 15,
+              "name": "TNT",
+              "logoLight": "http://images.tvoli.com/channel-logos/10198.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10198_dark.png",
+              "tags": [
+                "entertainment"
+              ]
+            },
+            {
+              "id": 232,
+              "listOrder": 24,
+              "name": "Cartoon Network",
+              "logoLight": "http://images.tvoli.com/channel-logos/232.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/232_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 250,
+              "listOrder": 27,
+              "name": "Boomerang",
+              "logoLight": "http://images.tvoli.com/channel-logos/250.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/250_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 154,
+              "listOrder": 22,
+              "name": "Nickelodeon",
+              "logoLight": "http://images.tvoli.com/channel-logos/154.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/154_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 11227,
+              "listOrder": 26,
+              "name": "Nick Jr",
+              "logoLight": "http://images.tvoli.com/channel-logos/11227.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/11227_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 72,
+              "listOrder": 12,
+              "name": "MTV",
+              "logoLight": "http://images.tvoli.com/channel-logos/72.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/72_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 176,
+              "listOrder": 16,
+              "name": "Eurosport",
+              "logoLight": "http://images.tvoli.com/channel-logos/176.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/176_dark.png",
+              "tags": [
+                "popular"
+              ]
+            }
+          ],
+          "tags": [
+            "large",
+            "recommended"
+          ]
+        },
+        {
+          "id": "00003SEPAC",
+          "name": "Kids",
+          "tagline": "Från Fåret Shaun och Scooby Doo, till Ben 10 och Äventyrsdags. Här hittar du massor av bra TV för barn i alla åldrar!",
+          "description": "Från Fåret Shaun och Scooby Doo, till Ben 10 och Äventyrsdags. Här hittar du massor av bra TV för barn i alla åldrar. SVT’s Barnkanalen finns alltid tillgänglig genom gratispaketet Free.",
+          "image": "https://images.tvoli.com/products/pack_se_kids.png",
+          "price": 5900,
+          "currency": "SEK",
+          "countryCode": "SE",
+          "channels": [
+            {
+              "id": 52,
+              "listOrder": 21,
+              "name": "Disney",
+              "logoLight": "http://images.tvoli.com/channel-logos/52.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/52_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 158,
+              "listOrder": 25,
+              "name": "Disney Junior",
+              "logoLight": "http://images.tvoli.com/channel-logos/158.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/158_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 75,
+              "listOrder": 23,
+              "name": "Disney XD",
+              "logoLight": "http://images.tvoli.com/channel-logos/75.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/75_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 232,
+              "listOrder": 24,
+              "name": "Cartoon Network",
+              "logoLight": "http://images.tvoli.com/channel-logos/232.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/232_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 250,
+              "listOrder": 27,
+              "name": "Boomerang",
+              "logoLight": "http://images.tvoli.com/channel-logos/250.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/250_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 14380,
+              "listOrder": 28,
+              "name": "Toon TV",
+              "logoLight": "http://images.tvoli.com/channel-logos/14380.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/14380_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 154,
+              "listOrder": 22,
+              "name": "Nickelodeon",
+              "logoLight": "http://images.tvoli.com/channel-logos/154.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/154_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 11227,
+              "listOrder": 26,
+              "name": "Nick Jr",
+              "logoLight": "http://images.tvoli.com/channel-logos/11227.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/11227_dark.png",
+              "tags": [
+                "kids"
+              ]
+            }
+          ],
+          "channelIds": [
+            52,
+            158,
+            75,
+            232,
+            250,
+            14380,
+            154,
+            11227
+          ],
+          "isInternal": false,
+          "usps": [
+            "För stora och små",
+            "8 kanaler",
+            "Ingen bindningstid"
+          ],
+          "topChannels": [
+            {
+              "id": 52,
+              "listOrder": 21,
+              "name": "Disney",
+              "logoLight": "http://images.tvoli.com/channel-logos/52.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/52_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 158,
+              "listOrder": 25,
+              "name": "Disney Junior",
+              "logoLight": "http://images.tvoli.com/channel-logos/158.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/158_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 75,
+              "listOrder": 23,
+              "name": "Disney XD",
+              "logoLight": "http://images.tvoli.com/channel-logos/75.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/75_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 232,
+              "listOrder": 24,
+              "name": "Cartoon Network",
+              "logoLight": "http://images.tvoli.com/channel-logos/232.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/232_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 250,
+              "listOrder": 27,
+              "name": "Boomerang",
+              "logoLight": "http://images.tvoli.com/channel-logos/250.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/250_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 14380,
+              "listOrder": 28,
+              "name": "Toon TV",
+              "logoLight": "http://images.tvoli.com/channel-logos/14380.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/14380_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 154,
+              "listOrder": 22,
+              "name": "Nickelodeon",
+              "logoLight": "http://images.tvoli.com/channel-logos/154.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/154_dark.png",
+              "tags": [
+                "kids"
+              ]
+            },
+            {
+              "id": 11227,
+              "listOrder": 26,
+              "name": "Nick Jr",
+              "logoLight": "http://images.tvoli.com/channel-logos/11227.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/11227_dark.png",
+              "tags": [
+                "kids"
+              ]
+            }
+          ],
+          "tags": [
+            "medium",
+            "theme"
+          ]
+        },
+        {
+          "id": "00004SEPAC",
+          "name": "Discovery",
+          "tagline": "Lär dig något nytt varje dag! Få kunskap om vårt förflutna och utforska framtiden med vårt Discovery-paket.",
+          "description": "Vetenskapliga landvinningar, uråldriga kulturer, arkeologi och kriminalmysterier. Här får du kunskap och spänning på samma gång!",
+          "image": "https://images.tvoli.com/products/pack_se_discovery.png",
+          "price": 3900,
+          "currency": "SEK",
+          "countryCode": "SE",
+          "channels": [
+            {
+              "id": 121,
+              "listOrder": 8,
+              "name": "Discovery World",
+              "logoLight": "http://images.tvoli.com/channel-logos/121.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/121_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 10210,
+              "listOrder": 10,
+              "name": "Investigation Discovery",
+              "logoLight": "http://images.tvoli.com/channel-logos/10210.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10210_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 122,
+              "listOrder": 9,
+              "name": "Discovery Science",
+              "logoLight": "http://images.tvoli.com/channel-logos/122.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/122_dark.png",
+              "tags": [
+
+              ]
+            }
+          ],
+          "channelIds": [
+            121,
+            10210,
+            122
+          ],
+          "isInternal": false,
+          "usps": [
+            "För dig som törstar efter kunskap",
+            "3 kanaler",
+            "Ingen bindningstid"
+          ],
+          "topChannels": [
+            {
+              "id": 121,
+              "listOrder": 8,
+              "name": "Discovery World",
+              "logoLight": "http://images.tvoli.com/channel-logos/121.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/121_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 10210,
+              "listOrder": 10,
+              "name": "Investigation Discovery",
+              "logoLight": "http://images.tvoli.com/channel-logos/10210.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10210_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 122,
+              "listOrder": 9,
+              "name": "Discovery Science",
+              "logoLight": "http://images.tvoli.com/channel-logos/122.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/122_dark.png",
+              "tags": [
+
+              ]
+            }
+          ],
+          "tags": [
+            "medium",
+            "theme"
+          ]
+        },
+        {
+          "id": "00006SEPAC",
+          "name": "News",
+          "tagline": "Håll koll på din omvärld var du än är. Vi har samlat några av de mest relevanta nyhetskanalerna för dig!",
+          "description": "Nyheter, reportage, analyser och intervjuer. Håll koll på din omvärld med de allra bästa kanalerna inom nyheter och ekonomi.",
+          "image": "https://images.tvoli.com/products/pack_se_news.png",
+          "price": 2900,
+          "currency": "SEK",
+          "countryCode": "SE",
+          "channels": [
+            {
+              "id": 10116,
+              "listOrder": 178,
+              "name": "Al Jazeera",
+              "logoLight": "http://images.tvoli.com/channel-logos/10116.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10116_dark.png",
+              "tags": [
+                "catch-up"
+              ]
+            },
+            {
+              "id": 30,
+              "listOrder": 103,
+              "name": "Bloomberg",
+              "logoLight": "http://images.tvoli.com/channel-logos/30.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/30_dark.png",
+              "tags": [
+                "catch-up"
+              ]
+            },
+            {
+              "id": 181,
+              "listOrder": 125,
+              "name": "CNN",
+              "logoLight": "http://images.tvoli.com/channel-logos/181.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/181_dark.png",
+              "tags": [
+                "catch-up",
+                "pay"
+              ]
+            },
+            {
+              "id": 191,
+              "listOrder": 32,
+              "name": "BBC World News",
+              "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+              "tags": [
+
+              ]
+            }
+          ],
+          "channelIds": [
+            10116,
+            30,
+            181,
+            191
+          ],
+          "isInternal": false,
+          "usps": [
+            "Nyheter från hela världen",
+            "4 kanaler",
+            "Ingen bindningstid"
+          ],
+          "topChannels": [
+            {
+              "id": 10116,
+              "listOrder": 178,
+              "name": "Al Jazeera",
+              "logoLight": "http://images.tvoli.com/channel-logos/10116.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10116_dark.png",
+              "tags": [
+                "catch-up"
+              ]
+            },
+            {
+              "id": 30,
+              "listOrder": 103,
+              "name": "Bloomberg",
+              "logoLight": "http://images.tvoli.com/channel-logos/30.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/30_dark.png",
+              "tags": [
+                "catch-up"
+              ]
+            },
+            {
+              "id": 181,
+              "listOrder": 125,
+              "name": "CNN",
+              "logoLight": "http://images.tvoli.com/channel-logos/181.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/181_dark.png",
+              "tags": [
+                "catch-up",
+                "pay"
+              ]
+            },
+            {
+              "id": 191,
+              "listOrder": 32,
+              "name": "BBC World News",
+              "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+              "tags": [
+
+              ]
+            }
+          ],
+          "tags": [
+            "medium",
+            "theme"
+          ]
+        },
+        {
+          "id": "00007SEPAC",
+          "name": "Sports & Action",
+          "tagline": "Spänn fast er! Här flödar adrenalinet i hockeyrinkar, i skidbackar, till havs, i ramper och på racerbanor. ",
+          "description": "Här hittar du alltifrån fotboll och ishockey, till segling, racing och extremsport. Dessutom ingår kanalen GINX med det bästa från TV-spelsvärlden. ",
+          "image": "https://images.tvoli.com/products/pack_se_sportandaction.png",
+          "price": 3900,
+          "currency": "SEK",
+          "countryCode": "SE",
+          "channels": [
+            {
+              "id": 178,
+              "listOrder": 17,
+              "name": "Eurosport 2",
+              "logoLight": "http://images.tvoli.com/channel-logos/178.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/178_dark.png",
+              "tags": [
+                "hd",
+                "popular"
+              ]
+            },
+            {
+              "id": 10135,
+              "listOrder": 30,
+              "name": "Nautical Channel",
+              "logoLight": "http://images.tvoli.com/channel-logos/10135.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10135_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 13707,
+              "listOrder": 120,
+              "name": "Fuel TV",
+              "logoLight": "http://images.tvoli.com/channel-logos/13707.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/13707_dark.png",
+              "tags": [
+                "hd",
+                "catch-up",
+                "pay"
+              ]
+            },
+            {
+              "id": 13702,
+              "listOrder": 124,
+              "name": "Ginx TV",
+              "logoLight": "http://images.tvoli.com/channel-logos/13702.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/13702_dark.png",
+              "tags": [
+                "catch-up"
+              ]
+            },
+            {
+              "id": 10058,
+              "listOrder": 121,
+              "name": "Motors TV",
+              "logoLight": "http://images.tvoli.com/channel-logos/10058.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10058_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 14153,
+              "listOrder": 131,
+              "name": "Outdoor Sport Channel",
+              "logoLight": "http://images.tvoli.com/channel-logos/14153.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/14153_dark.png",
+              "tags": [
+                "catch-up",
+                "pay"
+              ]
+            }
+          ],
+          "channelIds": [
+            178,
+            10135,
+            13707,
+            13702,
+            10058,
+            14153
+          ],
+          "isInternal": false,
+          "usps": [
+            "Allt från fotboll till segling, racing och e-sport",
+            "6 kanaler",
+            "Ingen bindningstid"
+          ],
+          "topChannels": [
+            {
+              "id": 178,
+              "listOrder": 17,
+              "name": "Eurosport 2",
+              "logoLight": "http://images.tvoli.com/channel-logos/178.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/178_dark.png",
+              "tags": [
+                "hd",
+                "popular"
+              ]
+            },
+            {
+              "id": 10135,
+              "listOrder": 30,
+              "name": "Nautical Channel",
+              "logoLight": "http://images.tvoli.com/channel-logos/10135.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10135_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 13707,
+              "listOrder": 120,
+              "name": "Fuel TV",
+              "logoLight": "http://images.tvoli.com/channel-logos/13707.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/13707_dark.png",
+              "tags": [
+                "hd",
+                "catch-up",
+                "pay"
+              ]
+            },
+            {
+              "id": 13702,
+              "listOrder": 124,
+              "name": "Ginx TV",
+              "logoLight": "http://images.tvoli.com/channel-logos/13702.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/13702_dark.png",
+              "tags": [
+                "catch-up"
+              ]
+            },
+            {
+              "id": 10058,
+              "listOrder": 121,
+              "name": "Motors TV",
+              "logoLight": "http://images.tvoli.com/channel-logos/10058.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10058_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 14153,
+              "listOrder": 131,
+              "name": "Outdoor Sport Channel",
+              "logoLight": "http://images.tvoli.com/channel-logos/14153.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/14153_dark.png",
+              "tags": [
+                "catch-up",
+                "pay"
+              ]
+            }
+          ],
+          "tags": [
+            "medium",
+            "theme"
+          ]
+        },
+        {
+          "id": "00024SEPAC",
+          "name": "BBC",
+          "tagline": "Brittisk TV har alltid hållit hög kvalite och här hittar du några av de bästa kanalerna, med anrika BBC News i spetsen.",
+          "description": "Brittisk kvalitets-TV med deckare, drama, och underhållning. Och så en av världens främsta nyhetsredaktioner så klart.",
+          "image": "https://images.tvoli.com/products/pack_se_bbc.png",
+          "price": 3900,
+          "currency": "SEK",
+          "countryCode": "SE",
+          "channels": [
+            {
+              "id": 12397,
+              "listOrder": 4,
+              "name": "BBC Brit",
+              "logoLight": "http://images.tvoli.com/channel-logos/12397.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/12397_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 10061,
+              "listOrder": 33,
+              "name": "BBC Earth",
+              "logoLight": "http://images.tvoli.com/channel-logos/10061.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10061_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 191,
+              "listOrder": 32,
+              "name": "BBC World News",
+              "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+              "tags": [
+
+              ]
+            }
+          ],
+          "channelIds": [
+            12397,
+            10061,
+            191
+          ],
+          "isInternal": false,
+          "usps": [
+            "Brittisk TV med hög kvalitet",
+            "3 kanaler",
+            "Ingen bindningstid"
+          ],
+          "topChannels": [
+            {
+              "id": 12397,
+              "listOrder": 4,
+              "name": "BBC Brit",
+              "logoLight": "http://images.tvoli.com/channel-logos/12397.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/12397_dark.png",
+              "tags": [
+                "popular",
+                "entertainment"
+              ]
+            },
+            {
+              "id": 10061,
+              "listOrder": 33,
+              "name": "BBC Earth",
+              "logoLight": "http://images.tvoli.com/channel-logos/10061.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/10061_dark.png",
+              "tags": [
+
+              ]
+            },
+            {
+              "id": 191,
+              "listOrder": 32,
+              "name": "BBC World News",
+              "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+              "tags": [
+
+              ]
+            }
+          ],
+          "tags": [
+            "medium",
+            "theme"
+          ]
+        },
+        {
+          "id": "00013SEPAC",
+          "name": "Horse and Country",
+          "tagline": "För ridsportsfantasten.",
+          "description": "Allt du behöver och lite till, förutsatt att du älskar hästar alltså. Här ser du tävlingar, reportage, intervjuer och nyheter om hästsport och lantliv.",
+          "image": "https://images.tvoli.com/products/pack_se_horseandcountry.png",
+          "price": 3900,
+          "currency": "SEK",
+          "countryCode": "SE",
+          "channels": [
+            {
+              "id": 14055,
+              "listOrder": 18,
+              "name": "Horse and Country",
+              "logoLight": "http://images.tvoli.com/channel-logos/14055.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/14055_dark.png",
+              "tags": [
+                "entertainment"
+              ]
+            }
+          ],
+          "channelIds": [
+            14055
+          ],
+          "isInternal": false,
+          "usps": [
+            "För ridsports-fantasten",
+            "På alla dina enheter",
+            "Ingen bindningstid"
+          ],
+          "topChannels": [
+            {
+              "id": 14055,
+              "listOrder": 18,
+              "name": "Horse and Country",
+              "logoLight": "http://images.tvoli.com/channel-logos/14055.png",
+              "logoDark": "http://images.tvoli.com/channel-logos/14055_dark.png",
+              "tags": [
+                "entertainment"
+              ]
+            }
+          ],
+          "tags": [
+            "small"
+          ]
+        }
+      ],
+      "channels": [
+        {
+          "id": 135,
+          "listOrder": 1,
+          "name": "SVT1",
+          "logoLight": "http://images.tvoli.com/channel-logos/135.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/135_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 136,
+          "listOrder": 2,
+          "name": "SVT2",
+          "logoLight": "http://images.tvoli.com/channel-logos/136.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/136_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 137,
+          "listOrder": 20,
+          "name": "SVT 24",
+          "logoLight": "http://images.tvoli.com/channel-logos/137.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/137_dark.png",
+          "tags": [
+            "facts"
+          ]
+        },
+        {
+          "id": 140,
+          "listOrder": 19,
+          "name": "Kunskapskanalen",
+          "logoLight": "http://images.tvoli.com/channel-logos/140.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/140_dark.png",
+          "tags": [
+            "facts"
+          ]
+        },
+        {
+          "id": 139,
+          "listOrder": 29,
+          "name": "Barnkanalen",
+          "logoLight": "http://images.tvoli.com/channel-logos/139.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/139_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 13882,
+          "listOrder": 31,
+          "name": "Aftonbladet TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/13882.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/13882_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 191,
+          "listOrder": 32,
+          "name": "BBC World News",
+          "logoLight": "http://images.tvoli.com/channel-logos/191.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/191_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 12397,
+          "listOrder": 4,
+          "name": "BBC Brit",
+          "logoLight": "http://images.tvoli.com/channel-logos/12397.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/12397_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 10061,
+          "listOrder": 33,
+          "name": "BBC Earth",
+          "logoLight": "http://images.tvoli.com/channel-logos/10061.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10061_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 181,
+          "listOrder": 125,
+          "name": "CNN",
+          "logoLight": "http://images.tvoli.com/channel-logos/181.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/181_dark.png",
+          "tags": [
+            "catch-up",
+            "pay"
+          ]
+        },
+        {
+          "id": 10198,
+          "listOrder": 15,
+          "name": "TNT",
+          "logoLight": "http://images.tvoli.com/channel-logos/10198.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10198_dark.png",
+          "tags": [
+            "entertainment"
+          ]
+        },
+        {
+          "id": 232,
+          "listOrder": 24,
+          "name": "Cartoon Network",
+          "logoLight": "http://images.tvoli.com/channel-logos/232.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/232_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 250,
+          "listOrder": 27,
+          "name": "Boomerang",
+          "logoLight": "http://images.tvoli.com/channel-logos/250.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/250_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 154,
+          "listOrder": 22,
+          "name": "Nickelodeon",
+          "logoLight": "http://images.tvoli.com/channel-logos/154.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/154_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 11227,
+          "listOrder": 26,
+          "name": "Nick Jr",
+          "logoLight": "http://images.tvoli.com/channel-logos/11227.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/11227_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 72,
+          "listOrder": 12,
+          "name": "MTV",
+          "logoLight": "http://images.tvoli.com/channel-logos/72.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/72_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 176,
+          "listOrder": 16,
+          "name": "Eurosport",
+          "logoLight": "http://images.tvoli.com/channel-logos/176.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/176_dark.png",
+          "tags": [
+            "popular"
+          ]
+        },
+        {
+          "id": 227,
+          "listOrder": 5,
+          "name": "National Geographic Channel",
+          "logoLight": "http://images.tvoli.com/channel-logos/227.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/227_dark.png",
+          "tags": [
+            "popular",
+            "facts"
+          ]
+        },
+        {
+          "id": 11573,
+          "listOrder": 6,
+          "name": "National Geographic Wild",
+          "logoLight": "http://images.tvoli.com/channel-logos/11573.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/11573_dark.png",
+          "tags": [
+            "facts"
+          ]
+        },
+        {
+          "id": 52,
+          "listOrder": 21,
+          "name": "Disney",
+          "logoLight": "http://images.tvoli.com/channel-logos/52.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/52_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 158,
+          "listOrder": 25,
+          "name": "Disney Junior",
+          "logoLight": "http://images.tvoli.com/channel-logos/158.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/158_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 75,
+          "listOrder": 23,
+          "name": "Disney XD",
+          "logoLight": "http://images.tvoli.com/channel-logos/75.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/75_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 119,
+          "listOrder": 7,
+          "name": "Discovery",
+          "logoLight": "http://images.tvoli.com/channel-logos/119.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/119_dark.png",
+          "tags": [
+            "popular",
+            "facts"
+          ]
+        },
+        {
+          "id": 123,
+          "listOrder": 3,
+          "name": "TLC",
+          "logoLight": "http://images.tvoli.com/channel-logos/123.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/123_dark.png",
+          "tags": [
+            "popular",
+            "entertainment"
+          ]
+        },
+        {
+          "id": 120,
+          "listOrder": 11,
+          "name": "Animal Planet",
+          "logoLight": "http://images.tvoli.com/channel-logos/120.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/120_dark.png",
+          "tags": [
+            "popular",
+            "facts"
+          ]
+        },
+        {
+          "id": 10196,
+          "listOrder": 13,
+          "name": "Comedy Central Sweden",
+          "logoLight": "http://images.tvoli.com/channel-logos/10196.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10196_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 178,
+          "listOrder": 17,
+          "name": "Eurosport 2",
+          "logoLight": "http://images.tvoli.com/channel-logos/178.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/178_dark.png",
+          "tags": [
+            "hd",
+            "popular"
+          ]
+        },
+        {
+          "id": 10116,
+          "listOrder": 178,
+          "name": "Al Jazeera",
+          "logoLight": "http://images.tvoli.com/channel-logos/10116.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10116_dark.png",
+          "tags": [
+            "catch-up"
+          ]
+        },
+        {
+          "id": 15199,
+          "listOrder": 14,
+          "name": "Paramount",
+          "logoLight": "http://images.tvoli.com/channel-logos/15199.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/15199_dark.png",
+          "tags": [
+            "film"
+          ]
+        },
+        {
+          "id": 14380,
+          "listOrder": 28,
+          "name": "Toon TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/14380.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14380_dark.png",
+          "tags": [
+            "kids"
+          ]
+        },
+        {
+          "id": 121,
+          "listOrder": 8,
+          "name": "Discovery World",
+          "logoLight": "http://images.tvoli.com/channel-logos/121.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/121_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 10210,
+          "listOrder": 10,
+          "name": "Investigation Discovery",
+          "logoLight": "http://images.tvoli.com/channel-logos/10210.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10210_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 122,
+          "listOrder": 9,
+          "name": "Discovery Science",
+          "logoLight": "http://images.tvoli.com/channel-logos/122.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/122_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 30,
+          "listOrder": 103,
+          "name": "Bloomberg",
+          "logoLight": "http://images.tvoli.com/channel-logos/30.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/30_dark.png",
+          "tags": [
+            "catch-up"
+          ]
+        },
+        {
+          "id": 10135,
+          "listOrder": 30,
+          "name": "Nautical Channel",
+          "logoLight": "http://images.tvoli.com/channel-logos/10135.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10135_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 13707,
+          "listOrder": 120,
+          "name": "Fuel TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/13707.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/13707_dark.png",
+          "tags": [
+            "hd",
+            "catch-up",
+            "pay"
+          ]
+        },
+        {
+          "id": 13702,
+          "listOrder": 124,
+          "name": "Ginx TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/13702.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/13702_dark.png",
+          "tags": [
+            "catch-up"
+          ]
+        },
+        {
+          "id": 10058,
+          "listOrder": 121,
+          "name": "Motors TV",
+          "logoLight": "http://images.tvoli.com/channel-logos/10058.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/10058_dark.png",
+          "tags": [
+
+          ]
+        },
+        {
+          "id": 14153,
+          "listOrder": 131,
+          "name": "Outdoor Sport Channel",
+          "logoLight": "http://images.tvoli.com/channel-logos/14153.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14153_dark.png",
+          "tags": [
+            "catch-up",
+            "pay"
+          ]
+        },
+        {
+          "id": 14055,
+          "listOrder": 18,
+          "name": "Horse and Country",
+          "logoLight": "http://images.tvoli.com/channel-logos/14055.png",
+          "logoDark": "http://images.tvoli.com/channel-logos/14055_dark.png",
+          "tags": [
+            "entertainment"
+          ]
+        }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "title": "Temapaket",
+      "slug": "normal",
+      "packIds": [
+        "00001SEPAC",
+        "00003SEPAC",
+        "00004SEPAC",
+        "00005SEPAC",
+        "00006SEPAC",
+        "00024SEPAC",
+        "00007SEPAC"
+      ]
+    },
+    {
+      "title": "Enskilda kanaler",
+      "slug": "alacarte",
+      "packIds": [
+        "00013SEPAC",
+        "00018SEPAC",
+        "00033SEPAC"
+      ]
+    },
+    {
+      "title": "Internationellt",
+      "slug": "international",
+      "packIds": [
+        "00009SEPAC",
+        "00010SEPAC",
+        "00023SEPAC",
+        "00026SEPAC",
+        "00025SEPAC",
+        "00012SEPAC"
+      ]
+    }
+  ],
+  "free": {
+    "id": "0FREESEPAC",
+    "name": "Free",
+    "tagline": "",
+    "description": "Du får alltid detta paket och det är alltid gratis",
+    "image": "https://images.tvoli.com/products/pack_se_free.png",
+    "price": 0,
+    "currency": "SEK",
+    "countryCode": "SE",
+    "channels": [
+      {
+        "id": 135,
+        "listOrder": 1,
+        "name": "SVT1",
+        "logoLight": "http://images.tvoli.com/channel-logos/135.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/135_dark.png",
+        "tags": [
+          "popular",
+          "entertainment"
+        ]
+      },
+      {
+        "id": 136,
+        "listOrder": 2,
+        "name": "SVT2",
+        "logoLight": "http://images.tvoli.com/channel-logos/136.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/136_dark.png",
+        "tags": [
+          "popular",
+          "entertainment"
+        ]
+      },
+      {
+        "id": 137,
+        "listOrder": 20,
+        "name": "SVT 24",
+        "logoLight": "http://images.tvoli.com/channel-logos/137.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/137_dark.png",
+        "tags": [
+          "facts"
+        ]
+      },
+      {
+        "id": 140,
+        "listOrder": 19,
+        "name": "Kunskapskanalen",
+        "logoLight": "http://images.tvoli.com/channel-logos/140.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/140_dark.png",
+        "tags": [
+          "facts"
+        ]
+      },
+      {
+        "id": 139,
+        "listOrder": 29,
+        "name": "Barnkanalen",
+        "logoLight": "http://images.tvoli.com/channel-logos/139.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/139_dark.png",
+        "tags": [
+          "kids"
+        ]
+      },
+      {
+        "id": 13882,
+        "listOrder": 31,
+        "name": "Aftonbladet TV",
+        "logoLight": "http://images.tvoli.com/channel-logos/13882.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/13882_dark.png",
+        "tags": [
+
+        ]
+      }
+    ],
+    "channelIds": [
+      135,
+      136,
+      137,
+      140,
+      139,
+      13882
+    ],
+    "isInternal": false,
+    "usps": [
+      "På alla dina enheter",
+      "Ett paket som passar alla",
+      "Våra mest populära kanaler"
+    ],
+    "topChannels": [
+      {
+        "id": 135,
+        "listOrder": 1,
+        "name": "SVT1",
+        "logoLight": "http://images.tvoli.com/channel-logos/135.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/135_dark.png",
+        "tags": [
+          "popular",
+          "entertainment"
+        ]
+      },
+      {
+        "id": 136,
+        "listOrder": 2,
+        "name": "SVT2",
+        "logoLight": "http://images.tvoli.com/channel-logos/136.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/136_dark.png",
+        "tags": [
+          "popular",
+          "entertainment"
+        ]
+      },
+      {
+        "id": 137,
+        "listOrder": 20,
+        "name": "SVT 24",
+        "logoLight": "http://images.tvoli.com/channel-logos/137.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/137_dark.png",
+        "tags": [
+          "facts"
+        ]
+      },
+      {
+        "id": 140,
+        "listOrder": 19,
+        "name": "Kunskapskanalen",
+        "logoLight": "http://images.tvoli.com/channel-logos/140.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/140_dark.png",
+        "tags": [
+          "facts"
+        ]
+      },
+      {
+        "id": 139,
+        "listOrder": 29,
+        "name": "Barnkanalen",
+        "logoLight": "http://images.tvoli.com/channel-logos/139.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/139_dark.png",
+        "tags": [
+          "kids"
+        ]
+      },
+      {
+        "id": 13882,
+        "listOrder": 31,
+        "name": "Aftonbladet TV",
+        "logoLight": "http://images.tvoli.com/channel-logos/13882.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/13882_dark.png",
+        "tags": [
+
+        ]
+      }
+    ],
+    "tags": [
+
+    ]
+  },
+  "freePackHd": {
+    "id": "0FREESEPAC",
+    "name": "Free",
+    "tagline": "",
+    "description": "Du får alltid detta paket och det är alltid gratis",
+    "image": "https://images.tvoli.com/products/pack_se_free.png",
+    "price": 0,
+    "currency": "SEK",
+    "countryCode": "SE",
+    "channels": [
+      {
+        "id": 135,
+        "listOrder": 1,
+        "name": "SVT1",
+        "logoLight": "http://images.tvoli.com/channel-logos/135.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/135_dark.png",
+        "tags": [
+          "popular",
+          "entertainment"
+        ]
+      },
+      {
+        "id": 136,
+        "listOrder": 2,
+        "name": "SVT2",
+        "logoLight": "http://images.tvoli.com/channel-logos/136.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/136_dark.png",
+        "tags": [
+          "popular",
+          "entertainment"
+        ]
+      },
+      {
+        "id": 137,
+        "listOrder": 20,
+        "name": "SVT 24",
+        "logoLight": "http://images.tvoli.com/channel-logos/137.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/137_dark.png",
+        "tags": [
+          "facts"
+        ]
+      },
+      {
+        "id": 140,
+        "listOrder": 19,
+        "name": "Kunskapskanalen",
+        "logoLight": "http://images.tvoli.com/channel-logos/140.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/140_dark.png",
+        "tags": [
+          "facts"
+        ]
+      },
+      {
+        "id": 139,
+        "listOrder": 29,
+        "name": "Barnkanalen",
+        "logoLight": "http://images.tvoli.com/channel-logos/139.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/139_dark.png",
+        "tags": [
+          "kids"
+        ]
+      },
+      {
+        "id": 13882,
+        "listOrder": 31,
+        "name": "Aftonbladet TV",
+        "logoLight": "http://images.tvoli.com/channel-logos/13882.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/13882_dark.png",
+        "tags": [
+
+        ]
+      }
+    ],
+    "channelIds": [
+      135,
+      136,
+      137,
+      140,
+      139,
+      13882
+    ],
+    "isInternal": false,
+    "usps": [
+      "På alla dina enheter",
+      "Ett paket som passar alla",
+      "Våra mest populära kanaler"
+    ],
+    "topChannels": [
+      {
+        "id": 135,
+        "listOrder": 1,
+        "name": "SVT1",
+        "logoLight": "http://images.tvoli.com/channel-logos/135.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/135_dark.png",
+        "tags": [
+          "popular",
+          "entertainment"
+        ]
+      },
+      {
+        "id": 136,
+        "listOrder": 2,
+        "name": "SVT2",
+        "logoLight": "http://images.tvoli.com/channel-logos/136.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/136_dark.png",
+        "tags": [
+          "popular",
+          "entertainment"
+        ]
+      },
+      {
+        "id": 137,
+        "listOrder": 20,
+        "name": "SVT 24",
+        "logoLight": "http://images.tvoli.com/channel-logos/137.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/137_dark.png",
+        "tags": [
+          "facts"
+        ]
+      },
+      {
+        "id": 140,
+        "listOrder": 19,
+        "name": "Kunskapskanalen",
+        "logoLight": "http://images.tvoli.com/channel-logos/140.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/140_dark.png",
+        "tags": [
+          "facts"
+        ]
+      },
+      {
+        "id": 139,
+        "listOrder": 29,
+        "name": "Barnkanalen",
+        "logoLight": "http://images.tvoli.com/channel-logos/139.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/139_dark.png",
+        "tags": [
+          "kids"
+        ]
+      },
+      {
+        "id": 13882,
+        "listOrder": 31,
+        "name": "Aftonbladet TV",
+        "logoLight": "http://images.tvoli.com/channel-logos/13882.png",
+        "logoDark": "http://images.tvoli.com/channel-logos/13882_dark.png",
+        "tags": [
+
+        ]
+      }
+    ],
+    "tags": [
+
+    ]
+  }
+}
